@@ -55,7 +55,18 @@ client.on(Events.InteractionCreate, async(interaction) => {
     }
 })
 
-
-
-
 client.login(process.env.login)
+
+const botURL = "https://discord-bot-hive1.onrender.com"
+
+async function pingBot() {
+    try {
+        await axios.get(botURL)
+    }
+    catch(e) {
+        
+    }
+}
+
+pingBot()
+setInterval(pingBot, 240000)
