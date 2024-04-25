@@ -44,7 +44,8 @@ module.exports = {
             let result = response.data.result
             let balance = []
             if (result.length > 0) {
-                let tokenInterested = ["STARBITS", "STARPRO", "SWAP.HIVE", "SWAP.SWIFT", "DEC", "SPS", "SWAP.MATIC", "SWAP.USDT", "SWAP.HBD", "BEE", "BUDS", "HKWATER", "MOTA", "PIZZA", "SPT", "SWAP.WAX", "KOD", "HUESO"]
+                let tokenInterested = ["STARBITS", "STARPRO", "ZING", "SWAP.HIVE", "SWAP.SWIFT", "DEC", "SPS", "SWAP.MATIC", "SWAP.USDT", "SWAP.HBD", "BEE", "BUDS", "HKWATER", "MOTA", "PIZZA", "SPT", "SWAP.WAX", "KOD", "HUESO", "COLONY", "SCRIPT", "PART", "VALOR", "ORIGINS", "SCRAP", "FORGE", "STELLARUM", "HIQS", "PXL", "SIM", "CCD", "WOO", "CROP"];
+
                 const filterResults = result.filter(filter => tokenInterested.includes(filter.symbol));
                 filterResults.map(filter => {
                     let symbol = { [filter.symbol]: filter.balance }
