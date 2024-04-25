@@ -17,6 +17,7 @@ module.exports = {
                 .setRequired(false)
         ),
     execute: async (interaction) => {
+        interaction.deferReply();
         let account = interaction.options.getString("account")
         let token = interaction.options.getString("token")
         if (account && token) {
@@ -52,7 +53,7 @@ module.exports = {
                     balance.push(symbol)
                 })
                 let table = generateTableBalance(balance, account)
-                interaction.reply(`\`\`\`\n${table}\n\`\`\``);
+                interaction.editReply(`\`\`\`\n${table}\n\`\`\``);
             }
             else {
                 await interaction.reply("The user entered does not exist or the parameters are incorrectly set")
