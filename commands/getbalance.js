@@ -33,10 +33,10 @@ module.exports = {
                     PendingUnstake: filter.pendingUnstake
                 }))
                 let table = generateTable(filterData)
-                interaction.reply(`\`\`\`\n${table}\n\`\`\``);
+                interaction.editReply(`\`\`\`\n${table}\n\`\`\``);
             }
             else {
-                await interaction.reply("The user entered does not exist or params invalid. Please enter the token in UPPERCASE")
+                await interaction.editReply("The user entered does not exist or params invalid. Please enter the token in UPPERCASE")
             }
         }
         else if (account) {
@@ -49,14 +49,20 @@ module.exports = {
 
                 const filterResults = result.filter(filter => tokenInterested.includes(filter.symbol));
                 filterResults.map(filter => {
-                    let symbol = { [filter.symbol]: filter.balance }
-                    balance.push(symbol)
+                    try {
+                        let symbol = { [filter.symbol]: filter.balance }
+                        balance.push(symbol)
+                    }
+                    catch(e) {
+                        console.log(e)
+                    }
+
                 })
                 let table = generateTableBalance(balance, account)
                 interaction.editReply(`\`\`\`\n${table}\n\`\`\``);
             }
             else {
-                await interaction.reply("The user entered does not exist or the parameters are incorrectly set")
+                await interaction.editReply("The user entered does not exist or the parameters are incorrectly set")
             }
         }
     },
