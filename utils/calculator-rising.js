@@ -11,6 +11,7 @@ async function consult(account) {
     let instruments = 0
     do {
         let response = await axios.post("https://custr.ryamer.com/contracts", { "jsonrpc": "2.0", "id": 10, "method": "find", "params": { "contract": "nft", "table": "STARinstances", "query": { "account": account }, "limit": 1000, "offset": offset, "indexes": ["account"] } })
+        console.log(response)
         let parcialData = response.data.result
         totalResults = parcialData.length
         offset += 1000
