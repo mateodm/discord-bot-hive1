@@ -170,12 +170,18 @@ async function rsFans(nfts) {
             if(checkCard.class === "people" && parseFloat(checkCard.fans) >= 5 || checkCard.class === "transport" && parseFloat(checkCard.fans) >= 5 ) {
                 let price = parseFloat(result.price)
                 let fans = parseFloat(checkCard.fans)
+                let skill = parseFloat(checkCards.skill)
                 let operation = price / fans
-                if(operation < 49.5) {
+                if(checkCard.class === "transport" && operation < 47.5) {
                                 await buyOrder(nft.toString(), result.price);
                                 const channel = await client.channels.fetch(channelId)
                                 channel.send(`<@429834106310885386> Card found: ${checkCard.name} - Per fan: ${operation} - Fans ${checkCard.fans} - Price: ${result.price}`) 
                 }
+                else if(checkCard.class === "people" && operation < 52) {
+                    await buyOrder(nft.toString(), result.price);
+                    const channel = await client.channels.fetch(channelId)
+                    channel.send(`<@429834106310885386> Card found: ${checkCard.name} - Per fan: ${operation} - Fans ${checkCard.fans} - Price: ${result.price}`) 
+                } 
             }
         })
     }
