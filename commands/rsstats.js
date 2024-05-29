@@ -31,8 +31,8 @@ module.exports = {
             }
             let starbits = 0
             let starpro = 0
-            let axiosStarpro = await axios.post("https://custr.ryamer.com/contracts", { "jsonrpc": "2.0", "id": 5, "method": "find", "params": { "contract": "tokens", "table": "balances", "query": { "account": account, "symbol": "STARPRO" }, "limit": 1000, "offset": 0, "indexes": [] } })
-            let axiosStarbits = await axios.post("https://custr.ryamer.com/contracts", { "jsonrpc": "2.0", "id": 4, "method": "find", "params": { "contract": "tokens", "table": "balances", "query": { "account": account, "symbol": "STARBITS" }, "limit": 1000, "offset": 0, "indexes": [] } })
+            let axiosStarpro = await axios.post("https://ha.herpc.dtools.dev/contracts", { "jsonrpc": "2.0", "id": 5, "method": "find", "params": { "contract": "tokens", "table": "balances", "query": { "account": account, "symbol": "STARPRO" }, "limit": 1000, "offset": 0, "indexes": [] } })
+            let axiosStarbits = await axios.post("https://ha.herpc.dtools.dev/contracts", { "jsonrpc": "2.0", "id": 4, "method": "find", "params": { "contract": "tokens", "table": "balances", "query": { "account": account, "symbol": "STARBITS" }, "limit": 1000, "offset": 0, "indexes": [] } })
             /* ERROR IF BALANCE NOT EXISTS */
             try {
                 starbits = axiosStarbits.data.result[0].balance
