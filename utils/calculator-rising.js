@@ -10,19 +10,17 @@ async function consult(account) {
     let people = 0
     let instruments = 0
     do {
-        let response = await axios.post("https://custr.ryamer.com/contracts", { "jsonrpc": "2.0", "id": 10, "method": "find", "params": { "contract": "nft", "table": "STARinstances", "query": { "account": account }, "limit": 1000, "offset": offset, "indexes": ["account"] } })
-        console.log(response)
+        let response = await axios.post("https://ha.herpc.dtools.dev/contracts", { "jsonrpc": "2.0", "id": 10, "method": "find", "params": { "contract": "nft", "table": "STARinstances", "query": { "account": account }, "limit": 1000, "offset": offset, "indexes": ["account"] } })
         let parcialData = response.data.result
         totalResults = parcialData.length
         offset += 1000
         parcialData.forEach(data => {
-
             if (data.properties.type.startsWith("L") && /^\d/.test(data.properties.type.slice(1))) {
                 legendary++
                 if(data.properties.class === "people") {
                     people++
                 }
-                else if(data.properties.class === "instruments") {
+                else if(data.properties.class === "instruments" ||  data.properties.class === "instrument") {
                     instruments++
                 }
                 else if(data.properties.class === "transport") {
@@ -34,7 +32,7 @@ async function consult(account) {
                 if(data.properties.class === "people") {
                     people++
                 }
-                else if(data.properties.class === "instruments") {
+                else if(data.properties.class === "instruments" ||  data.properties.class === "instrument") {
                     instruments++
                 }
                 else if(data.properties.class === "transport") {
@@ -46,7 +44,7 @@ async function consult(account) {
                 if(data.properties.class === "people") {
                     people++
                 }
-                else if(data.properties.class === "instruments") {
+                else if(data.properties.class === "instruments" ||  data.properties.class === "instrument") {
                     instruments++
                 }
                 else if(data.properties.class === "transport") {
@@ -57,7 +55,7 @@ async function consult(account) {
                 if(data.properties.class === "people") {
                     people++
                 }
-                else if(data.properties.class === "instrument") {
+                else if(data.properties.class === "instrument" ||  data.properties.class === "instrument") {
                     instruments++
                 }
                 else if(data.properties.class === "transport") {

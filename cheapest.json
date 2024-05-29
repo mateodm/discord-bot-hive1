@@ -1,0 +1,6802 @@
+[
+    {
+        "_id": 1430370,
+        "account": "oxidil",
+        "ownedBy": "u",
+        "nftId": "27623",
+        "grouping": {
+            "class": "skillboost",
+            "type": "SkillBoost1"
+        },
+        "timestamp": 1650173208000,
+        "price": "3500",
+        "priceDec": {
+            "$numberDecimal": "3500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938777,
+        "account": "thunderjack",
+        "ownedBy": "u",
+        "nftId": "13253818",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D2333"
+        },
+        "timestamp": 1716207204000,
+        "price": "7500",
+        "priceDec": {
+            "$numberDecimal": "7500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13869138,
+        "account": "laaca",
+        "ownedBy": "u",
+        "nftId": "15121270",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D2323"
+        },
+        "timestamp": 1714899201000,
+        "price": "9500",
+        "priceDec": {
+            "$numberDecimal": "9500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13795442,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "11915491",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P3323"
+        },
+        "timestamp": 1713712344000,
+        "price": "13000",
+        "priceDec": {
+            "$numberDecimal": "13000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862926,
+        "account": "limxinhai",
+        "ownedBy": "u",
+        "nftId": "13586313",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P2323"
+        },
+        "timestamp": 1714818726000,
+        "price": "14355",
+        "priceDec": {
+            "$numberDecimal": "14355"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938665,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "625936",
+        "grouping": {
+            "class": "instrument",
+            "type": "R97 RS Nanny"
+        },
+        "timestamp": 1716205074000,
+        "price": "16250",
+        "priceDec": {
+            "$numberDecimal": "16250"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13942289,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "160039",
+        "grouping": {
+            "class": "instrument",
+            "type": "i14 Cheap Sax"
+        },
+        "timestamp": 1716392652000,
+        "price": "21826",
+        "priceDec": {
+            "$numberDecimal": "21826"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919701,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "123984",
+        "grouping": {
+            "class": "instrument",
+            "type": "i15 Cheap Trumpet"
+        },
+        "timestamp": 1715594967000,
+        "price": "22806",
+        "priceDec": {
+            "$numberDecimal": "22806"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13519798,
+        "account": "dafusa",
+        "ownedBy": "u",
+        "nftId": "6090421",
+        "grouping": {
+            "class": "instrument",
+            "type": "S60 3rd Birthday Kit"
+        },
+        "timestamp": 1711951311000,
+        "price": "25399",
+        "priceDec": {
+            "$numberDecimal": "25399"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11841087,
+        "account": "amaillo",
+        "ownedBy": "u",
+        "nftId": "579670",
+        "grouping": {
+            "class": "instrument",
+            "type": "R88 Marching Drum"
+        },
+        "timestamp": 1703873031000,
+        "price": "25920",
+        "priceDec": {
+            "$numberDecimal": "25920"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13942288,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "444070",
+        "grouping": {
+            "class": "instrument",
+            "type": "i11 Mid Range Drums"
+        },
+        "timestamp": 1716392616000,
+        "price": "27074",
+        "priceDec": {
+            "$numberDecimal": "27074"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13793622,
+        "account": "zandroid64",
+        "ownedBy": "u",
+        "nftId": "6361360",
+        "grouping": {
+            "class": "instrument",
+            "type": "S58 3rd Birthday Mic"
+        },
+        "timestamp": 1713663540000,
+        "price": "28000",
+        "priceDec": {
+            "$numberDecimal": "28000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937798,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "8884968",
+        "grouping": {
+            "class": "records",
+            "type": "Logan Hate - King Haki"
+        },
+        "timestamp": 1716197286000,
+        "price": "29000",
+        "priceDec": {
+            "$numberDecimal": "29000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12947028,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "5949669",
+        "grouping": {
+            "class": "instrument",
+            "type": "S56 3rd Birthday Amp"
+        },
+        "timestamp": 1709103498000,
+        "price": "29156",
+        "priceDec": {
+            "$numberDecimal": "29156"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13059563,
+        "account": "neruda37",
+        "ownedBy": "u",
+        "nftId": "511551",
+        "grouping": {
+            "class": "instrument",
+            "type": "R81 RS 101"
+        },
+        "timestamp": 1709452782000,
+        "price": "30000",
+        "priceDec": {
+            "$numberDecimal": "30000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13517909,
+        "account": "markomata16",
+        "ownedBy": "u",
+        "nftId": "10851239",
+        "grouping": {
+            "class": "instrument",
+            "type": "S66 Smileys Violin"
+        },
+        "timestamp": 1711935462000,
+        "price": "32998",
+        "priceDec": {
+            "$numberDecimal": "32998"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13946379,
+        "account": "amaari",
+        "ownedBy": "u",
+        "nftId": "5667848",
+        "grouping": {
+            "class": "people",
+            "type": "R282 MC Flow Rapper"
+        },
+        "timestamp": 1716468969000,
+        "price": "34998",
+        "priceDec": {
+            "$numberDecimal": "34998"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938813,
+        "account": "tiden",
+        "ownedBy": "u",
+        "nftId": "14527665",
+        "grouping": {
+            "class": "instrument",
+            "type": "S75 Egg Shakers"
+        },
+        "timestamp": 1716211686000,
+        "price": "35555",
+        "priceDec": {
+            "$numberDecimal": "35555"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12759571,
+        "account": "brsk84",
+        "ownedBy": "u",
+        "nftId": "302712",
+        "grouping": {
+            "class": "instrument",
+            "type": "R58 Swarmandal"
+        },
+        "timestamp": 1708270446000,
+        "price": "36200",
+        "priceDec": {
+            "$numberDecimal": "36200"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13517885,
+        "account": "markomata16",
+        "ownedBy": "u",
+        "nftId": "10906036",
+        "grouping": {
+            "class": "instrument",
+            "type": "S67 Smileys Death Horn"
+        },
+        "timestamp": 1711935384000,
+        "price": "37596",
+        "priceDec": {
+            "$numberDecimal": "37596"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13321136,
+        "account": "mordikkio",
+        "ownedBy": "u",
+        "nftId": "13706562",
+        "grouping": {
+            "class": "instrument",
+            "type": "S73 Pink Heart Bass"
+        },
+        "timestamp": 1710536409000,
+        "price": "39490",
+        "priceDec": {
+            "$numberDecimal": "39490"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12291590,
+        "account": "uchiha-gaming",
+        "ownedBy": "u",
+        "nftId": "1372590",
+        "grouping": {
+            "class": "instrument",
+            "type": "S35 Chocolate Chimes"
+        },
+        "timestamp": 1705850244000,
+        "price": "40000",
+        "priceDec": {
+            "$numberDecimal": "40000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945229,
+        "account": "astrid87",
+        "ownedBy": "u",
+        "nftId": "353934",
+        "grouping": {
+            "class": "people",
+            "type": "R66 Matt"
+        },
+        "timestamp": 1716434529000,
+        "price": "40000",
+        "priceDec": {
+            "$numberDecimal": "40000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 6576883,
+        "account": "kobekalbo",
+        "ownedBy": "u",
+        "nftId": "5900037",
+        "grouping": {
+            "class": "instrument",
+            "type": "S52 Chocolate Piano"
+        },
+        "timestamp": 1682338017000,
+        "price": "40000",
+        "priceDec": {
+            "$numberDecimal": "40000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13940904,
+        "account": "thunderjack",
+        "ownedBy": "u",
+        "nftId": "9901587",
+        "grouping": {
+            "class": "instrument",
+            "type": "E177 JJ14"
+        },
+        "timestamp": 1716305748000,
+        "price": "40000",
+        "priceDec": {
+            "$numberDecimal": "40000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13940887,
+        "account": "thunderjack",
+        "ownedBy": "u",
+        "nftId": "10483450",
+        "grouping": {
+            "class": "instrument",
+            "type": "E179 Star Bass"
+        },
+        "timestamp": 1716305691000,
+        "price": "40000",
+        "priceDec": {
+            "$numberDecimal": "40000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945228,
+        "account": "astrid87",
+        "ownedBy": "u",
+        "nftId": "358441",
+        "grouping": {
+            "class": "people",
+            "type": "R67 Febie"
+        },
+        "timestamp": 1716434505000,
+        "price": "40000",
+        "priceDec": {
+            "$numberDecimal": "40000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13948712,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "12829589",
+        "grouping": {
+            "class": "crafted",
+            "type": "Santas Sleigh 3323"
+        },
+        "timestamp": 1716521520000,
+        "price": "41169",
+        "priceDec": {
+            "$numberDecimal": "41169"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13626788,
+        "account": "nozzy",
+        "ownedBy": "u",
+        "nftId": "3770039",
+        "grouping": {
+            "class": "instrument",
+            "type": "S45 Crucifix Guitar"
+        },
+        "timestamp": 1712427843000,
+        "price": "41995",
+        "priceDec": {
+            "$numberDecimal": "41995"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13803273,
+        "account": "dk1trade",
+        "ownedBy": "u",
+        "nftId": "12075356",
+        "grouping": {
+            "class": "instrument",
+            "type": "S70 Ice Flute"
+        },
+        "timestamp": 1713826665000,
+        "price": "42299",
+        "priceDec": {
+            "$numberDecimal": "42299"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937795,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "4915461",
+        "grouping": {
+            "class": "records",
+            "type": "Karrey - Rising Star Dancehall Tribute Theme Song"
+        },
+        "timestamp": 1716197232000,
+        "price": "45000",
+        "priceDec": {
+            "$numberDecimal": "45000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13828152,
+        "account": "amaari",
+        "ownedBy": "u",
+        "nftId": "6349917",
+        "grouping": {
+            "class": "instrument",
+            "type": "S55 3rd Birthday Guitar"
+        },
+        "timestamp": 1714307985000,
+        "price": "45989",
+        "priceDec": {
+            "$numberDecimal": "45989"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 523516,
+        "account": "maxidepaula",
+        "ownedBy": "u",
+        "nftId": "389123",
+        "grouping": {
+            "class": "people",
+            "type": "R76 George"
+        },
+        "timestamp": 1633969137000,
+        "price": "48000",
+        "priceDec": {
+            "$numberDecimal": "48000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919718,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "94870",
+        "grouping": {
+            "class": "instrument",
+            "type": "i16 Cheap Cello"
+        },
+        "timestamp": 1715594967000,
+        "price": "48803",
+        "priceDec": {
+            "$numberDecimal": "48803"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10298974,
+        "account": "spartano",
+        "ownedBy": "u",
+        "nftId": "10370081",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - 1981"
+        },
+        "timestamp": 1697766468000,
+        "price": "50000",
+        "priceDec": {
+            "$numberDecimal": "50000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10299075,
+        "account": "spartano",
+        "ownedBy": "u",
+        "nftId": "10370177",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Insomnia"
+        },
+        "timestamp": 1697767257000,
+        "price": "50000",
+        "priceDec": {
+            "$numberDecimal": "50000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10299126,
+        "account": "spartano",
+        "ownedBy": "u",
+        "nftId": "10370130",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Room 3701"
+        },
+        "timestamp": 1697767788000,
+        "price": "50000",
+        "priceDec": {
+            "$numberDecimal": "50000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10299187,
+        "account": "spartano",
+        "ownedBy": "u",
+        "nftId": "10370106",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Sumatran Party"
+        },
+        "timestamp": 1697768187000,
+        "price": "50000",
+        "priceDec": {
+            "$numberDecimal": "50000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13912195,
+        "account": "brizahd",
+        "ownedBy": "u",
+        "nftId": "3039375",
+        "grouping": {
+            "class": "instrument",
+            "type": "E92 Multi Delay"
+        },
+        "timestamp": 1715482119000,
+        "price": "50633",
+        "priceDec": {
+            "$numberDecimal": "50633"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13828153,
+        "account": "amaari",
+        "ownedBy": "u",
+        "nftId": "5958735",
+        "grouping": {
+            "class": "instrument",
+            "type": "S59 3rd Birthday Piano"
+        },
+        "timestamp": 1714307985000,
+        "price": "50999",
+        "priceDec": {
+            "$numberDecimal": "50999"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13912219,
+        "account": "brizahd",
+        "ownedBy": "u",
+        "nftId": "7572126",
+        "grouping": {
+            "class": "instrument",
+            "type": "E148 Pizza Distortion"
+        },
+        "timestamp": 1715482377000,
+        "price": "51000",
+        "priceDec": {
+            "$numberDecimal": "51000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862573,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "13315665",
+        "grouping": {
+            "class": "crafted",
+            "type": "Santas Sleigh 2323"
+        },
+        "timestamp": 1714809756000,
+        "price": "52390",
+        "priceDec": {
+            "$numberDecimal": "52390"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11841138,
+        "account": "amaillo",
+        "ownedBy": "u",
+        "nftId": "1443676",
+        "grouping": {
+            "class": "instrument",
+            "type": "S36 Rabbit Radio"
+        },
+        "timestamp": 1703873070000,
+        "price": "53350",
+        "priceDec": {
+            "$numberDecimal": "53350"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13883956,
+        "account": "double-eagle",
+        "ownedBy": "u",
+        "nftId": "468049",
+        "grouping": {
+            "class": "skillboost",
+            "type": "SkillBoost10"
+        },
+        "timestamp": 1715035614000,
+        "price": "56000",
+        "priceDec": {
+            "$numberDecimal": "56000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919721,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "94858",
+        "grouping": {
+            "class": "instrument",
+            "type": "i18 Electric Drums"
+        },
+        "timestamp": 1715594967000,
+        "price": "56637",
+        "priceDec": {
+            "$numberDecimal": "56637"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 7891459,
+        "account": "vampy05",
+        "ownedBy": "u",
+        "nftId": "2170939",
+        "grouping": {
+            "class": "instrument",
+            "type": "E89 Aqua Stripes Guitar"
+        },
+        "timestamp": 1689471519000,
+        "price": "57000",
+        "priceDec": {
+            "$numberDecimal": "57000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13817292,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "13516662",
+        "grouping": {
+            "class": "instrument",
+            "type": "S72 Gold Rim Kit"
+        },
+        "timestamp": 1713952536000,
+        "price": "58000",
+        "priceDec": {
+            "$numberDecimal": "58000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13772222,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "5999860",
+        "grouping": {
+            "class": "instrument",
+            "type": "S57 3rd Birthday Trumpet"
+        },
+        "timestamp": 1713536148000,
+        "price": "59898",
+        "priceDec": {
+            "$numberDecimal": "59898"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12297424,
+        "account": "looftee",
+        "ownedBy": "u",
+        "nftId": "125551",
+        "grouping": {
+            "class": "instrument",
+            "type": "R25 Double Bass"
+        },
+        "timestamp": 1705921143000,
+        "price": "60000",
+        "priceDec": {
+            "$numberDecimal": "60000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13940819,
+        "account": "timeis816",
+        "ownedBy": "u",
+        "nftId": "15033441",
+        "grouping": {
+            "class": "people",
+            "type": "E232 Wilson"
+        },
+        "timestamp": 1716283710000,
+        "price": "60000",
+        "priceDec": {
+            "$numberDecimal": "60000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937803,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "10370015",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Passion"
+        },
+        "timestamp": 1716197409000,
+        "price": "64500",
+        "priceDec": {
+            "$numberDecimal": "64500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12225836,
+        "account": "apeng",
+        "ownedBy": "u",
+        "nftId": "80966",
+        "grouping": {
+            "class": "instrument",
+            "type": "R13 Pro Studio Mic"
+        },
+        "timestamp": 1705504263000,
+        "price": "64800",
+        "priceDec": {
+            "$numberDecimal": "64800"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937805,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "8128454",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Stars From Heaven"
+        },
+        "timestamp": 1716197442000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937806,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "5687942",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - The Pharaohs"
+        },
+        "timestamp": 1716197463000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937804,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "8128527",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Sex On The Beach"
+        },
+        "timestamp": 1716197424000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937802,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "8128479",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Mr Hypnosis"
+        },
+        "timestamp": 1716197358000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937801,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "5209776",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Love Time"
+        },
+        "timestamp": 1716197340000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937800,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "8051372",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Dance With Me"
+        },
+        "timestamp": 1716197322000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937799,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "8051420",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Acid Dreams"
+        },
+        "timestamp": 1716197307000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937796,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "1705692",
+        "grouping": {
+            "class": "records",
+            "type": "Last Ravage Opinion - Rising Star"
+        },
+        "timestamp": 1716197253000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937797,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "5227927",
+        "grouping": {
+            "class": "records",
+            "type": "Last Ravage Opinion - Twisted Shells"
+        },
+        "timestamp": 1716197268000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13943494,
+        "account": "syllem",
+        "ownedBy": "u",
+        "nftId": "13713477",
+        "grouping": {
+            "class": "people",
+            "type": "E211 Stella"
+        },
+        "timestamp": 1716397758000,
+        "price": "65000",
+        "priceDec": {
+            "$numberDecimal": "65000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13687568,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "383516",
+        "grouping": {
+            "class": "instrument",
+            "type": "R64 RS 30 Guitar Synth"
+        },
+        "timestamp": 1712788605000,
+        "price": "65732",
+        "priceDec": {
+            "$numberDecimal": "65732"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13940967,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "13225993",
+        "grouping": {
+            "class": "crafted",
+            "type": "Santas Sleigh 3333"
+        },
+        "timestamp": 1716306633000,
+        "price": "68000",
+        "priceDec": {
+            "$numberDecimal": "68000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13907229,
+        "account": "diegoloco",
+        "ownedBy": "u",
+        "nftId": "2850051",
+        "grouping": {
+            "class": "instrument",
+            "type": "E94 Celeste"
+        },
+        "timestamp": 1715423613000,
+        "price": "70000",
+        "priceDec": {
+            "$numberDecimal": "70000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13907228,
+        "account": "diegoloco",
+        "ownedBy": "u",
+        "nftId": "2967658",
+        "grouping": {
+            "class": "instrument",
+            "type": "E96 Twilight Acoustic"
+        },
+        "timestamp": 1715423601000,
+        "price": "70000",
+        "priceDec": {
+            "$numberDecimal": "70000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13475071,
+        "account": "nwlrunner",
+        "ownedBy": "u",
+        "nftId": "12326071",
+        "grouping": {
+            "class": "crafted",
+            "type": "Santas Sleigh 1323"
+        },
+        "timestamp": 1711448175000,
+        "price": "72000",
+        "priceDec": {
+            "$numberDecimal": "72000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13693278,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "776297",
+        "grouping": {
+            "class": "instrument",
+            "type": "R113 Clarinet"
+        },
+        "timestamp": 1712844171000,
+        "price": "73742",
+        "priceDec": {
+            "$numberDecimal": "73742"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13104697,
+        "account": "misty86e7",
+        "ownedBy": "u",
+        "nftId": "159431",
+        "grouping": {
+            "class": "people",
+            "type": "R21 MC Pressure"
+        },
+        "timestamp": 1709679408000,
+        "price": "74000",
+        "priceDec": {
+            "$numberDecimal": "74000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12947047,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "393658",
+        "grouping": {
+            "class": "instrument",
+            "type": "R73 Udukai"
+        },
+        "timestamp": 1709103498000,
+        "price": "74100",
+        "priceDec": {
+            "$numberDecimal": "74100"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937452,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "368428",
+        "grouping": {
+            "class": "instrument",
+            "type": "R62 Chubby Subby"
+        },
+        "timestamp": 1716188439000,
+        "price": "74566",
+        "priceDec": {
+            "$numberDecimal": "74566"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934893,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "1975098",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC4 Dalilah"
+        },
+        "timestamp": 1716143838000,
+        "price": "74978",
+        "priceDec": {
+            "$numberDecimal": "74978"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862576,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "13342916",
+        "grouping": {
+            "class": "crafted",
+            "type": "Santas Sleigh 2333"
+        },
+        "timestamp": 1714809756000,
+        "price": "74999",
+        "priceDec": {
+            "$numberDecimal": "74999"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13622578,
+        "account": "danimv13",
+        "ownedBy": "u",
+        "nftId": "3756358",
+        "grouping": {
+            "class": "instrument",
+            "type": "S46 Drum Stakes"
+        },
+        "timestamp": 1712400630000,
+        "price": "75000",
+        "priceDec": {
+            "$numberDecimal": "75000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12703680,
+        "account": "brsk84",
+        "ownedBy": "u",
+        "nftId": "403448",
+        "grouping": {
+            "class": "people",
+            "type": "R69 Lucy"
+        },
+        "timestamp": 1708000788000,
+        "price": "75400",
+        "priceDec": {
+            "$numberDecimal": "75400"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 5032677,
+        "account": "cryptoshowtime",
+        "ownedBy": "u",
+        "nftId": "133685",
+        "grouping": {
+            "class": "instrument",
+            "type": "R16 MPC500"
+        },
+        "timestamp": 1672420806000,
+        "price": "77000",
+        "priceDec": {
+            "$numberDecimal": "77000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13475034,
+        "account": "nwlrunner",
+        "ownedBy": "u",
+        "nftId": "13532450",
+        "grouping": {
+            "class": "crafted",
+            "type": "Love Bug 1323"
+        },
+        "timestamp": 1711448097000,
+        "price": "79000",
+        "priceDec": {
+            "$numberDecimal": "79000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12759320,
+        "account": "brsk84",
+        "ownedBy": "u",
+        "nftId": "346457",
+        "grouping": {
+            "class": "instrument",
+            "type": "R57 Pink Mic"
+        },
+        "timestamp": 1708270308000,
+        "price": "79500",
+        "priceDec": {
+            "$numberDecimal": "79500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13941567,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "1255479",
+        "grouping": {
+            "class": "instrument",
+            "type": "R165 Newens Kit"
+        },
+        "timestamp": 1716339363000,
+        "price": "79998",
+        "priceDec": {
+            "$numberDecimal": "79998"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945231,
+        "account": "astrid87",
+        "ownedBy": "u",
+        "nftId": "327069",
+        "grouping": {
+            "class": "people",
+            "type": "R63 Sonny"
+        },
+        "timestamp": 1716434583000,
+        "price": "80000",
+        "priceDec": {
+            "$numberDecimal": "80000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13923662,
+        "account": "cryptoyzzy",
+        "ownedBy": "u",
+        "nftId": "4326304",
+        "grouping": {
+            "class": "instrument",
+            "type": "E120 DVRS2"
+        },
+        "timestamp": 1715764488000,
+        "price": "80000",
+        "priceDec": {
+            "$numberDecimal": "80000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13940856,
+        "account": "bitlad",
+        "ownedBy": "u",
+        "nftId": "14312724",
+        "grouping": {
+            "class": "instrument",
+            "type": "S76 Little Chicky"
+        },
+        "timestamp": 1716303363000,
+        "price": "84000",
+        "priceDec": {
+            "$numberDecimal": "84000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938609,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "340804",
+        "grouping": {
+            "class": "people",
+            "type": "R50 Ali"
+        },
+        "timestamp": 1716204981000,
+        "price": "84500",
+        "priceDec": {
+            "$numberDecimal": "84500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10790583,
+        "account": "ragaxie",
+        "ownedBy": "u",
+        "nftId": "339553",
+        "grouping": {
+            "class": "people",
+            "type": "R55 Bruce"
+        },
+        "timestamp": 1699671519000,
+        "price": "85000",
+        "priceDec": {
+            "$numberDecimal": "85000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13924806,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "369922",
+        "grouping": {
+            "class": "instrument",
+            "type": "i30 Cheap Mic V2"
+        },
+        "timestamp": 1715780931000,
+        "price": "86340",
+        "priceDec": {
+            "$numberDecimal": "86340"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10163245,
+        "account": "man60360",
+        "ownedBy": "u",
+        "nftId": "165864",
+        "grouping": {
+            "class": "people",
+            "type": "R17 Winston"
+        },
+        "timestamp": 1697362878000,
+        "price": "90000",
+        "priceDec": {
+            "$numberDecimal": "90000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13832881,
+        "account": "magomerlin",
+        "ownedBy": "u",
+        "nftId": "14359469",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR G1323"
+        },
+        "timestamp": 1714344444000,
+        "price": "90000",
+        "priceDec": {
+            "$numberDecimal": "90000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945219,
+        "account": "astrid87",
+        "ownedBy": "u",
+        "nftId": "301752",
+        "grouping": {
+            "class": "transport",
+            "type": "R40 Touring Coach"
+        },
+        "timestamp": 1716434241000,
+        "price": "90000",
+        "priceDec": {
+            "$numberDecimal": "90000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11440156,
+        "account": "rishi556",
+        "ownedBy": "u",
+        "nftId": "58508",
+        "grouping": {
+            "class": "fanboost",
+            "type": "FanBoost50"
+        },
+        "timestamp": 1702192059000,
+        "price": "95000",
+        "priceDec": {
+            "$numberDecimal": "95000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13941532,
+        "account": "thegoliath",
+        "ownedBy": "u",
+        "nftId": "6779478",
+        "grouping": {
+            "class": "people",
+            "type": "E150 Levi"
+        },
+        "timestamp": 1716330834000,
+        "price": "95000",
+        "priceDec": {
+            "$numberDecimal": "95000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13734620,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "174376",
+        "grouping": {
+            "class": "instrument",
+            "type": "R31 Nykelharpa"
+        },
+        "timestamp": 1713141768000,
+        "price": "96920",
+        "priceDec": {
+            "$numberDecimal": "96920"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10170056,
+        "account": "josectzte",
+        "ownedBy": "u",
+        "nftId": "159136",
+        "grouping": {
+            "class": "instrument",
+            "type": "R30 80s Mic"
+        },
+        "timestamp": 1697388837000,
+        "price": "97900",
+        "priceDec": {
+            "$numberDecimal": "97900"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13820819,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "5368163",
+        "grouping": {
+            "class": "instrument",
+            "type": "E128 Restored Vintage"
+        },
+        "timestamp": 1714003968000,
+        "price": "98000",
+        "priceDec": {
+            "$numberDecimal": "98000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13833976,
+        "account": "dardanelfon",
+        "ownedBy": "u",
+        "nftId": "11181682",
+        "grouping": {
+            "class": "instrument",
+            "type": "E189 LA96"
+        },
+        "timestamp": 1714393674000,
+        "price": "99999",
+        "priceDec": {
+            "$numberDecimal": "99999"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 464594,
+        "account": "keiyoshi",
+        "ownedBy": "u",
+        "nftId": "470554",
+        "grouping": {
+            "class": "people",
+            "type": "R71 Bekky"
+        },
+        "timestamp": 1631413527000,
+        "price": "100000",
+        "priceDec": {
+            "$numberDecimal": "100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945233,
+        "account": "astrid87",
+        "ownedBy": "u",
+        "nftId": "327081",
+        "grouping": {
+            "class": "people",
+            "type": "R61 Vimbo"
+        },
+        "timestamp": 1716434637000,
+        "price": "100000",
+        "priceDec": {
+            "$numberDecimal": "100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12443791,
+        "account": "spartano",
+        "ownedBy": "u",
+        "nftId": "10370249",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Gray Smoke"
+        },
+        "timestamp": 1706969733000,
+        "price": "100000",
+        "priceDec": {
+            "$numberDecimal": "100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12531592,
+        "account": "spartano",
+        "ownedBy": "u",
+        "nftId": "13081738",
+        "grouping": {
+            "class": "records",
+            "type": "Taylhardat - Serious Changes"
+        },
+        "timestamp": 1707227367000,
+        "price": "100000",
+        "priceDec": {
+            "$numberDecimal": "100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13940786,
+        "account": "cryptoyzzy",
+        "ownedBy": "u",
+        "nftId": "6592400",
+        "grouping": {
+            "class": "instrument",
+            "type": "E147 YNOT RSM57"
+        },
+        "timestamp": 1716283506000,
+        "price": "100000",
+        "priceDec": {
+            "$numberDecimal": "100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13941839,
+        "account": "pipok",
+        "ownedBy": "u",
+        "nftId": "6243598",
+        "grouping": {
+            "class": "people",
+            "type": "E138 Florence"
+        },
+        "timestamp": 1716350910000,
+        "price": "103400",
+        "priceDec": {
+            "$numberDecimal": "103400"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13554124,
+        "account": "nozzy",
+        "ownedBy": "u",
+        "nftId": "6094342",
+        "grouping": {
+            "class": "instrument",
+            "type": "S53 Rabbit Guitar"
+        },
+        "timestamp": 1712157270000,
+        "price": "104000",
+        "priceDec": {
+            "$numberDecimal": "104000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13785632,
+        "account": "deveter",
+        "ownedBy": "u",
+        "nftId": "4589154",
+        "grouping": {
+            "class": "transport",
+            "type": "E115 Desert Bike"
+        },
+        "timestamp": 1713567042000,
+        "price": "105000",
+        "priceDec": {
+            "$numberDecimal": "105000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12942694,
+        "account": "edskymiguel",
+        "ownedBy": "u",
+        "nftId": "7084491",
+        "grouping": {
+            "class": "people",
+            "type": "E159 Leah"
+        },
+        "timestamp": 1709066694000,
+        "price": "114000",
+        "priceDec": {
+            "$numberDecimal": "114000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 8049598,
+        "account": "ragaxie",
+        "ownedBy": "u",
+        "nftId": "4929601",
+        "grouping": {
+            "class": "people",
+            "type": "E124 Estelle"
+        },
+        "timestamp": 1690514586000,
+        "price": "115000",
+        "priceDec": {
+            "$numberDecimal": "115000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12966461,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "776457",
+        "grouping": {
+            "class": "instrument",
+            "type": "R114 Gold Mic"
+        },
+        "timestamp": 1709167728000,
+        "price": "115000",
+        "priceDec": {
+            "$numberDecimal": "115000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938612,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "297366",
+        "grouping": {
+            "class": "people",
+            "type": "R39 Clive"
+        },
+        "timestamp": 1716204981000,
+        "price": "115700",
+        "priceDec": {
+            "$numberDecimal": "115700"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13505406,
+        "account": "the88n3",
+        "ownedBy": "u",
+        "nftId": "3112394",
+        "grouping": {
+            "class": "instrument",
+            "type": "E104 Custom Electric Violin"
+        },
+        "timestamp": 1711743189000,
+        "price": "115830",
+        "priceDec": {
+            "$numberDecimal": "115830"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938613,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "390194",
+        "grouping": {
+            "class": "people",
+            "type": "R75 Greg"
+        },
+        "timestamp": 1716204981000,
+        "price": "117000",
+        "priceDec": {
+            "$numberDecimal": "117000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11981638,
+        "account": "celescu",
+        "ownedBy": "u",
+        "nftId": "63397",
+        "grouping": {
+            "class": "instrument",
+            "type": "R6 Congas"
+        },
+        "timestamp": 1704469476000,
+        "price": "117600",
+        "priceDec": {
+            "$numberDecimal": "117600"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13941534,
+        "account": "thegoliath",
+        "ownedBy": "u",
+        "nftId": "5530501",
+        "grouping": {
+            "class": "people",
+            "type": "E136 Ishmael"
+        },
+        "timestamp": 1716330834000,
+        "price": "118000",
+        "priceDec": {
+            "$numberDecimal": "118000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13734619,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "163587",
+        "grouping": {
+            "class": "instrument",
+            "type": "R26 Lute"
+        },
+        "timestamp": 1713141708000,
+        "price": "118798",
+        "priceDec": {
+            "$numberDecimal": "118798"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938554,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "190799",
+        "grouping": {
+            "class": "people",
+            "type": "R28 Lolita"
+        },
+        "timestamp": 1716204825000,
+        "price": "119000",
+        "priceDec": {
+            "$numberDecimal": "119000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13785667,
+        "account": "deveter",
+        "ownedBy": "u",
+        "nftId": "8834309",
+        "grouping": {
+            "class": "transport",
+            "type": "E165 RS2 Vault"
+        },
+        "timestamp": 1713567141000,
+        "price": "120000",
+        "priceDec": {
+            "$numberDecimal": "120000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13522867,
+        "account": "cursojean",
+        "ownedBy": "u",
+        "nftId": "216739",
+        "grouping": {
+            "class": "instrument",
+            "type": "R43 String Machine"
+        },
+        "timestamp": 1712019567000,
+        "price": "120000",
+        "priceDec": {
+            "$numberDecimal": "120000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13941527,
+        "account": "thegoliath",
+        "ownedBy": "u",
+        "nftId": "6615992",
+        "grouping": {
+            "class": "people",
+            "type": "E151 Abigail"
+        },
+        "timestamp": 1716330726000,
+        "price": "120000",
+        "priceDec": {
+            "$numberDecimal": "120000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13943511,
+        "account": "nebuer1",
+        "ownedBy": "u",
+        "nftId": "6325686",
+        "grouping": {
+            "class": "people",
+            "type": "E134 Jamal"
+        },
+        "timestamp": 1716399504000,
+        "price": "123000",
+        "priceDec": {
+            "$numberDecimal": "123000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13912194,
+        "account": "brizahd",
+        "ownedBy": "u",
+        "nftId": "1676700",
+        "grouping": {
+            "class": "instrument",
+            "type": "E79 Blue Sax"
+        },
+        "timestamp": 1715482074000,
+        "price": "129360",
+        "priceDec": {
+            "$numberDecimal": "129360"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13637916,
+        "account": "michjazz",
+        "ownedBy": "u",
+        "nftId": "4245800",
+        "grouping": {
+            "class": "instrument",
+            "type": "E111 Trippy Bongos"
+        },
+        "timestamp": 1712453949000,
+        "price": "129690",
+        "priceDec": {
+            "$numberDecimal": "129690"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13668844,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "5737919",
+        "grouping": {
+            "class": "instrument",
+            "type": "E133 JT05"
+        },
+        "timestamp": 1712590692000,
+        "price": "131998",
+        "priceDec": {
+            "$numberDecimal": "131998"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919686,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "3218437",
+        "grouping": {
+            "class": "instrument",
+            "type": "E93 Tonga Drum"
+        },
+        "timestamp": 1715594721000,
+        "price": "132300",
+        "priceDec": {
+            "$numberDecimal": "132300"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938628,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "75528",
+        "grouping": {
+            "class": "people",
+            "type": "R9 The Songwriter"
+        },
+        "timestamp": 1716204999000,
+        "price": "133860",
+        "priceDec": {
+            "$numberDecimal": "133860"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13649532,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "6008390",
+        "grouping": {
+            "class": "instrument",
+            "type": "E132 RSF Toy Synth"
+        },
+        "timestamp": 1712497536000,
+        "price": "136618",
+        "priceDec": {
+            "$numberDecimal": "136618"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13104839,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "1801641",
+        "grouping": {
+            "class": "instrument",
+            "type": "E87 Burnt Orange Sax"
+        },
+        "timestamp": 1709696655000,
+        "price": "139650",
+        "priceDec": {
+            "$numberDecimal": "139650"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12966520,
+        "account": "supertiti1305",
+        "ownedBy": "u",
+        "nftId": "5088736",
+        "grouping": {
+            "class": "people",
+            "type": "E130 Bobby Ideal"
+        },
+        "timestamp": 1709169411000,
+        "price": "141000",
+        "priceDec": {
+            "$numberDecimal": "141000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12225867,
+        "account": "apeng",
+        "ownedBy": "u",
+        "nftId": "150535",
+        "grouping": {
+            "class": "instrument",
+            "type": "R24 The Red One"
+        },
+        "timestamp": 1705504263000,
+        "price": "144000",
+        "priceDec": {
+            "$numberDecimal": "144000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117014,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "4102627",
+        "grouping": {
+            "class": "people",
+            "type": "E107 Tyler"
+        },
+        "timestamp": 1709807211000,
+        "price": "144060",
+        "priceDec": {
+            "$numberDecimal": "144060"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13916594,
+        "account": "stamato",
+        "ownedBy": "u",
+        "nftId": "4153974",
+        "grouping": {
+            "class": "people",
+            "type": "E118 Bam Bam"
+        },
+        "timestamp": 1715527524000,
+        "price": "145000",
+        "priceDec": {
+            "$numberDecimal": "145000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13104689,
+        "account": "misty86e7",
+        "ownedBy": "u",
+        "nftId": "417229",
+        "grouping": {
+            "class": "people",
+            "type": "R59 Laney"
+        },
+        "timestamp": 1709679204000,
+        "price": "145000",
+        "priceDec": {
+            "$numberDecimal": "145000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13668843,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "4706393",
+        "grouping": {
+            "class": "instrument",
+            "type": "E121 BS100"
+        },
+        "timestamp": 1712590632000,
+        "price": "146518",
+        "priceDec": {
+            "$numberDecimal": "146518"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13229344,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "4813455",
+        "grouping": {
+            "class": "people",
+            "type": "E119 Jammo"
+        },
+        "timestamp": 1710238491000,
+        "price": "147000",
+        "priceDec": {
+            "$numberDecimal": "147000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13380369,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "590560",
+        "grouping": {
+            "class": "instrument",
+            "type": "R91 Bugle"
+        },
+        "timestamp": 1710858858000,
+        "price": "148000",
+        "priceDec": {
+            "$numberDecimal": "148000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938614,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "336733",
+        "grouping": {
+            "class": "people",
+            "type": "R56 Robbie"
+        },
+        "timestamp": 1716204981000,
+        "price": "148200",
+        "priceDec": {
+            "$numberDecimal": "148200"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13230591,
+        "account": "ressonlelong",
+        "ownedBy": "u",
+        "nftId": "13930059",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR G1333"
+        },
+        "timestamp": 1710244644000,
+        "price": "148500",
+        "priceDec": {
+            "$numberDecimal": "148500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117017,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "4526014",
+        "grouping": {
+            "class": "people",
+            "type": "E116 Jim"
+        },
+        "timestamp": 1709807211000,
+        "price": "149244",
+        "priceDec": {
+            "$numberDecimal": "149244"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12890887,
+        "account": "cryptoyzzy",
+        "ownedBy": "u",
+        "nftId": "7046238",
+        "grouping": {
+            "class": "transport",
+            "type": "E146 Ferrari Limo"
+        },
+        "timestamp": 1708863684000,
+        "price": "150000",
+        "priceDec": {
+            "$numberDecimal": "150000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13785675,
+        "account": "deveter",
+        "ownedBy": "u",
+        "nftId": "8815951",
+        "grouping": {
+            "class": "transport",
+            "type": "E172 Private Sub"
+        },
+        "timestamp": 1713567345000,
+        "price": "150000",
+        "priceDec": {
+            "$numberDecimal": "150000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12948348,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "1231450",
+        "grouping": {
+            "class": "instrument",
+            "type": "E66 Antique Viola"
+        },
+        "timestamp": 1709104944000,
+        "price": "150000",
+        "priceDec": {
+            "$numberDecimal": "150000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937958,
+        "account": "mejiasclaudia",
+        "ownedBy": "u",
+        "nftId": "415208",
+        "grouping": {
+            "class": "instrument",
+            "type": "R72 Nadaswaram"
+        },
+        "timestamp": 1716199776000,
+        "price": "150000",
+        "priceDec": {
+            "$numberDecimal": "150000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938615,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "91629",
+        "grouping": {
+            "class": "people",
+            "type": "R4 Female Rapper"
+        },
+        "timestamp": 1716204981000,
+        "price": "156000",
+        "priceDec": {
+            "$numberDecimal": "156000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117019,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "5634593",
+        "grouping": {
+            "class": "people",
+            "type": "E125 Tank"
+        },
+        "timestamp": 1709807211000,
+        "price": "156849",
+        "priceDec": {
+            "$numberDecimal": "156849"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13456380,
+        "account": "bordel",
+        "ownedBy": "u",
+        "nftId": "9314530",
+        "grouping": {
+            "class": "people",
+            "type": "E174 Hannah"
+        },
+        "timestamp": 1711266498000,
+        "price": "166000",
+        "priceDec": {
+            "$numberDecimal": "166000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13749300,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "12806588",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P1323"
+        },
+        "timestamp": 1713303354000,
+        "price": "170000",
+        "priceDec": {
+            "$numberDecimal": "170000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937978,
+        "account": "stamato",
+        "ownedBy": "u",
+        "nftId": "4483675",
+        "grouping": {
+            "class": "people",
+            "type": "E122 Shane"
+        },
+        "timestamp": 1716203364000,
+        "price": "170000",
+        "priceDec": {
+            "$numberDecimal": "170000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117020,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "3582512",
+        "grouping": {
+            "class": "people",
+            "type": "E101 Maria Elena"
+        },
+        "timestamp": 1709807211000,
+        "price": "173352",
+        "priceDec": {
+            "$numberDecimal": "173352"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938616,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "259679",
+        "grouping": {
+            "class": "people",
+            "type": "R37 Bolly Wood"
+        },
+        "timestamp": 1716204981000,
+        "price": "174915",
+        "priceDec": {
+            "$numberDecimal": "174915"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117028,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "2510843",
+        "grouping": {
+            "class": "people",
+            "type": "E80 MC Vision"
+        },
+        "timestamp": 1709807469000,
+        "price": "176400",
+        "priceDec": {
+            "$numberDecimal": "176400"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13466120,
+        "account": "kamorix",
+        "ownedBy": "u",
+        "nftId": "4186302",
+        "grouping": {
+            "class": "instrument",
+            "type": "S49 Christmas Bagpipes"
+        },
+        "timestamp": 1711320897000,
+        "price": "179000",
+        "priceDec": {
+            "$numberDecimal": "179000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 5743630,
+        "account": "cookaiss",
+        "ownedBy": "u",
+        "nftId": "2346897",
+        "grouping": {
+            "class": "people",
+            "type": "E86 Austin"
+        },
+        "timestamp": 1676653698000,
+        "price": "180000",
+        "priceDec": {
+            "$numberDecimal": "180000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13198869,
+        "account": "titopx",
+        "ownedBy": "u",
+        "nftId": "3030291",
+        "grouping": {
+            "class": "people",
+            "type": "E100 Hugh Nositt"
+        },
+        "timestamp": 1710161775000,
+        "price": "180000",
+        "priceDec": {
+            "$numberDecimal": "180000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10165010,
+        "account": "todayslight",
+        "ownedBy": "u",
+        "nftId": "4535873",
+        "grouping": {
+            "class": "people",
+            "type": "E117 Annie"
+        },
+        "timestamp": 1697370744000,
+        "price": "180000",
+        "priceDec": {
+            "$numberDecimal": "180000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937979,
+        "account": "stamato",
+        "ownedBy": "u",
+        "nftId": "8501975",
+        "grouping": {
+            "class": "people",
+            "type": "E167 Benjamin"
+        },
+        "timestamp": 1716203538000,
+        "price": "180000",
+        "priceDec": {
+            "$numberDecimal": "180000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13701305,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "8654914",
+        "grouping": {
+            "class": "transport",
+            "type": "E170 Monster Limo"
+        },
+        "timestamp": 1712917416000,
+        "price": "180469",
+        "priceDec": {
+            "$numberDecimal": "180469"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13105127,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "1426366",
+        "grouping": {
+            "class": "people",
+            "type": "E73 Gary"
+        },
+        "timestamp": 1709696799000,
+        "price": "181545",
+        "priceDec": {
+            "$numberDecimal": "181545"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13737377,
+        "account": "lordep",
+        "ownedBy": "u",
+        "nftId": "9772043",
+        "grouping": {
+            "class": "transport",
+            "type": "E171 Rise Guy Truck"
+        },
+        "timestamp": 1713188115000,
+        "price": "184999",
+        "priceDec": {
+            "$numberDecimal": "184999"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13528966,
+        "account": "dacot951",
+        "ownedBy": "u",
+        "nftId": "3737502",
+        "grouping": {
+            "class": "transport",
+            "type": "E104 Classic Racer"
+        },
+        "timestamp": 1712054226000,
+        "price": "185625",
+        "priceDec": {
+            "$numberDecimal": "185625"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13517589,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "7883439",
+        "grouping": {
+            "class": "transport",
+            "type": "E158 Sleeper Truck"
+        },
+        "timestamp": 1711919664000,
+        "price": "189400",
+        "priceDec": {
+            "$numberDecimal": "189400"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13746438,
+        "account": "jacques0829",
+        "ownedBy": "u",
+        "nftId": "10692155",
+        "grouping": {
+            "class": "people",
+            "type": "E175 Jeremy"
+        },
+        "timestamp": 1713266373000,
+        "price": "189704",
+        "priceDec": {
+            "$numberDecimal": "189704"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13715021,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "115692",
+        "grouping": {
+            "class": "transport",
+            "type": "R20 Touring Coach"
+        },
+        "timestamp": 1713067248000,
+        "price": "189890",
+        "priceDec": {
+            "$numberDecimal": "189890"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 6540140,
+        "account": "balbaabart",
+        "ownedBy": "u",
+        "nftId": "1379752",
+        "grouping": {
+            "class": "energyboost",
+            "type": "2nd Birthday Cake"
+        },
+        "timestamp": 1682063478000,
+        "price": "190000",
+        "priceDec": {
+            "$numberDecimal": "190000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13505408,
+        "account": "the88n3",
+        "ownedBy": "u",
+        "nftId": "4741917",
+        "grouping": {
+            "class": "instrument",
+            "type": "S50 Christmas Drum"
+        },
+        "timestamp": 1711743477000,
+        "price": "196020",
+        "priceDec": {
+            "$numberDecimal": "196020"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13940970,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "14337463",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 3323"
+        },
+        "timestamp": 1716306840000,
+        "price": "198000",
+        "priceDec": {
+            "$numberDecimal": "198000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13735241,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "115421",
+        "grouping": {
+            "class": "people",
+            "type": "S5 Mozart"
+        },
+        "timestamp": 1713149244000,
+        "price": "199900",
+        "priceDec": {
+            "$numberDecimal": "199900"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13858936,
+        "account": "itharagaian",
+        "ownedBy": "u",
+        "nftId": "305249",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Joy"
+        },
+        "timestamp": 1714757976000,
+        "price": "199990",
+        "priceDec": {
+            "$numberDecimal": "199990"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13704950,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "1845486",
+        "grouping": {
+            "class": "transport",
+            "type": "E77 Range Rover Limo"
+        },
+        "timestamp": 1712975292000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13785617,
+        "account": "deveter",
+        "ownedBy": "u",
+        "nftId": "3656641",
+        "grouping": {
+            "class": "transport",
+            "type": "E109 Classic Limo"
+        },
+        "timestamp": 1713566976000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 9492128,
+        "account": "dinistrio97",
+        "ownedBy": "u",
+        "nftId": "9640392",
+        "grouping": {
+            "class": "records",
+            "type": "Svart Varg - Black Moon"
+        },
+        "timestamp": 1695199986000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 9492153,
+        "account": "dinistrio97",
+        "ownedBy": "u",
+        "nftId": "9640416",
+        "grouping": {
+            "class": "records",
+            "type": "Svart Varg - The Last Dragon Slayer"
+        },
+        "timestamp": 1695199986000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10364596,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "7117087",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - The Good Stuff 2"
+        },
+        "timestamp": 1697997396000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10364600,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "4915682",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Star Rising"
+        },
+        "timestamp": 1697997396000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12769410,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "10313582",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Rawness"
+        },
+        "timestamp": 1708285482000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13907227,
+        "account": "diegoloco",
+        "ownedBy": "u",
+        "nftId": "1765295",
+        "grouping": {
+            "class": "instrument",
+            "type": "E70 Sky Blue Guitar"
+        },
+        "timestamp": 1715423580000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12657321,
+        "account": "stil4obg",
+        "ownedBy": "u",
+        "nftId": "2099061",
+        "grouping": {
+            "class": "instrument",
+            "type": "E91 Retro Violin"
+        },
+        "timestamp": 1707805845000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13824233,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "418629",
+        "grouping": {
+            "class": "instrument",
+            "type": "R74 Blue Mic"
+        },
+        "timestamp": 1714140096000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13933375,
+        "account": "jagged",
+        "ownedBy": "u",
+        "nftId": "12631832",
+        "grouping": {
+            "class": "records",
+            "type": "Klinchex - Warrior"
+        },
+        "timestamp": 1716114945000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13933373,
+        "account": "jagged",
+        "ownedBy": "u",
+        "nftId": "15312585",
+        "grouping": {
+            "class": "records",
+            "type": "Klinchex - Another Place Another Time"
+        },
+        "timestamp": 1716114711000,
+        "price": "200000",
+        "priceDec": {
+            "$numberDecimal": "200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945397,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14330960",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1323"
+        },
+        "timestamp": 1716438465000,
+        "price": "209197",
+        "priceDec": {
+            "$numberDecimal": "209197"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934894,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2462975",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC5 Rose Petal"
+        },
+        "timestamp": 1716143838000,
+        "price": "209937",
+        "priceDec": {
+            "$numberDecimal": "209937"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13498435,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "338492",
+        "grouping": {
+            "class": "instrument",
+            "type": "R53 Tabla"
+        },
+        "timestamp": 1711675317000,
+        "price": "215000",
+        "priceDec": {
+            "$numberDecimal": "215000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13105130,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "1492972",
+        "grouping": {
+            "class": "people",
+            "type": "E75 Natalie"
+        },
+        "timestamp": 1709696799000,
+        "price": "217687",
+        "priceDec": {
+            "$numberDecimal": "217687"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13821063,
+        "account": "ragaxie",
+        "ownedBy": "u",
+        "nftId": "2194691",
+        "grouping": {
+            "class": "transport",
+            "type": "E78 Vintage Road Bike"
+        },
+        "timestamp": 1714016058000,
+        "price": "220000",
+        "priceDec": {
+            "$numberDecimal": "220000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12951639,
+        "account": "cryptoyzzy",
+        "ownedBy": "u",
+        "nftId": "823005",
+        "grouping": {
+            "class": "instrument",
+            "type": "E47 Upright Piano"
+        },
+        "timestamp": 1709111103000,
+        "price": "220000",
+        "priceDec": {
+            "$numberDecimal": "220000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938555,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "196404",
+        "grouping": {
+            "class": "people",
+            "type": "R29 Antonio"
+        },
+        "timestamp": 1716204825000,
+        "price": "224000",
+        "priceDec": {
+            "$numberDecimal": "224000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13939691,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "12370974",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P1333"
+        },
+        "timestamp": 1716241977000,
+        "price": "225000",
+        "priceDec": {
+            "$numberDecimal": "225000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13105131,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "1492945",
+        "grouping": {
+            "class": "people",
+            "type": "E72 Tucker"
+        },
+        "timestamp": 1709696799000,
+        "price": "236739",
+        "priceDec": {
+            "$numberDecimal": "236739"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13686842,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "271585",
+        "grouping": {
+            "class": "instrument",
+            "type": "R46 Guitar"
+        },
+        "timestamp": 1712776641000,
+        "price": "236762",
+        "priceDec": {
+            "$numberDecimal": "236762"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117025,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "3746490",
+        "grouping": {
+            "class": "people",
+            "type": "E102 Chase"
+        },
+        "timestamp": 1709807211000,
+        "price": "239120",
+        "priceDec": {
+            "$numberDecimal": "239120"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13734624,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "258079",
+        "grouping": {
+            "class": "instrument",
+            "type": "R44 Looper"
+        },
+        "timestamp": 1713141894000,
+        "price": "239758",
+        "priceDec": {
+            "$numberDecimal": "239758"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13923661,
+        "account": "cryptoyzzy",
+        "ownedBy": "u",
+        "nftId": "3334431",
+        "grouping": {
+            "class": "instrument",
+            "type": "E97 Indie Mic"
+        },
+        "timestamp": 1715764467000,
+        "price": "250000",
+        "priceDec": {
+            "$numberDecimal": "250000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938618,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "290794",
+        "grouping": {
+            "class": "people",
+            "type": "R42 Kris"
+        },
+        "timestamp": 1716204981000,
+        "price": "258700",
+        "priceDec": {
+            "$numberDecimal": "258700"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938619,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "342494",
+        "grouping": {
+            "class": "people",
+            "type": "R49 Bethany"
+        },
+        "timestamp": 1716204981000,
+        "price": "260000",
+        "priceDec": {
+            "$numberDecimal": "260000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117031,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "3205591",
+        "grouping": {
+            "class": "people",
+            "type": "E99 Olivia"
+        },
+        "timestamp": 1709807469000,
+        "price": "270706",
+        "priceDec": {
+            "$numberDecimal": "270706"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938620,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "347049",
+        "grouping": {
+            "class": "people",
+            "type": "R54 Ellie"
+        },
+        "timestamp": 1716204981000,
+        "price": "273000",
+        "priceDec": {
+            "$numberDecimal": "273000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11622398,
+        "account": "akertxu",
+        "ownedBy": "u",
+        "nftId": "719994",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D1333"
+        },
+        "timestamp": 1702792440000,
+        "price": "285000",
+        "priceDec": {
+            "$numberDecimal": "285000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13858935,
+        "account": "itharagaian",
+        "ownedBy": "u",
+        "nftId": "296428",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Mr Chop Chop"
+        },
+        "timestamp": 1714757955000,
+        "price": "290000",
+        "priceDec": {
+            "$numberDecimal": "290000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 9510865,
+        "account": "kenshiinn1",
+        "ownedBy": "u",
+        "nftId": "2148571",
+        "grouping": {
+            "class": "transport",
+            "type": "E76 The Destroyer"
+        },
+        "timestamp": 1695222972000,
+        "price": "300000",
+        "priceDec": {
+            "$numberDecimal": "300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10192172,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "7040108",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Funktacular"
+        },
+        "timestamp": 1697481873000,
+        "price": "300000",
+        "priceDec": {
+            "$numberDecimal": "300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10192174,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "7793091",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Funky Face"
+        },
+        "timestamp": 1697481873000,
+        "price": "300000",
+        "priceDec": {
+            "$numberDecimal": "300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11965945,
+        "account": "liz.latin",
+        "ownedBy": "u",
+        "nftId": "8879432",
+        "grouping": {
+            "class": "people",
+            "type": "E168 Georgina"
+        },
+        "timestamp": 1704399156000,
+        "price": "300000",
+        "priceDec": {
+            "$numberDecimal": "300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13071797,
+        "account": "saechigo",
+        "ownedBy": "u",
+        "nftId": "2278253",
+        "grouping": {
+            "class": "instrument",
+            "type": "E88 Dulcitone"
+        },
+        "timestamp": 1709501232000,
+        "price": "300000",
+        "priceDec": {
+            "$numberDecimal": "300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12769414,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "10313440",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Free Thinking Remix"
+        },
+        "timestamp": 1708285482000,
+        "price": "300000",
+        "priceDec": {
+            "$numberDecimal": "300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938621,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "208133",
+        "grouping": {
+            "class": "people",
+            "type": "R34 Ed"
+        },
+        "timestamp": 1716204981000,
+        "price": "312000",
+        "priceDec": {
+            "$numberDecimal": "312000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13668857,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "80922",
+        "grouping": {
+            "class": "instrument",
+            "type": "R12 808 Drum Machine"
+        },
+        "timestamp": 1712590809000,
+        "price": "314000",
+        "priceDec": {
+            "$numberDecimal": "314000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12171659,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "196629",
+        "grouping": {
+            "class": "instrument",
+            "type": "R33 Hang Drum"
+        },
+        "timestamp": 1705277835000,
+        "price": "320000",
+        "priceDec": {
+            "$numberDecimal": "320000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862895,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "74980",
+        "grouping": {
+            "class": "transport",
+            "type": "R10 Touring Coach"
+        },
+        "timestamp": 1714815585000,
+        "price": "349000",
+        "priceDec": {
+            "$numberDecimal": "349000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13785618,
+        "account": "deveter",
+        "ownedBy": "u",
+        "nftId": "4903693",
+        "grouping": {
+            "class": "transport",
+            "type": "E113 Classic V61"
+        },
+        "timestamp": 1713566997000,
+        "price": "350000",
+        "priceDec": {
+            "$numberDecimal": "350000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13707235,
+        "account": "brando28",
+        "ownedBy": "u",
+        "nftId": "10315738",
+        "grouping": {
+            "class": "people",
+            "type": "E182 Ryder"
+        },
+        "timestamp": 1713008415000,
+        "price": "350000",
+        "priceDec": {
+            "$numberDecimal": "350000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13707233,
+        "account": "brando28",
+        "ownedBy": "u",
+        "nftId": "8770336",
+        "grouping": {
+            "class": "people",
+            "type": "E166 Ruby"
+        },
+        "timestamp": 1713008388000,
+        "price": "350000",
+        "priceDec": {
+            "$numberDecimal": "350000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13265850,
+        "account": "naosdn",
+        "ownedBy": "u",
+        "nftId": "8534269",
+        "grouping": {
+            "class": "people",
+            "type": "E161 Zane"
+        },
+        "timestamp": 1710439275000,
+        "price": "350000",
+        "priceDec": {
+            "$numberDecimal": "350000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13858940,
+        "account": "itharagaian",
+        "ownedBy": "u",
+        "nftId": "334104",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Dont Ever Dont Stop"
+        },
+        "timestamp": 1714758060000,
+        "price": "370000",
+        "priceDec": {
+            "$numberDecimal": "370000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13283661,
+        "account": "caracol32",
+        "ownedBy": "u",
+        "nftId": "10197387",
+        "grouping": {
+            "class": "instrument",
+            "type": "L65 Paganini Violin"
+        },
+        "timestamp": 1710512772000,
+        "price": "380000",
+        "priceDec": {
+            "$numberDecimal": "380000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13857446,
+        "account": "kaiizo",
+        "ownedBy": "u",
+        "nftId": "12366832",
+        "grouping": {
+            "class": "instrument",
+            "type": "L67 Franks Telly"
+        },
+        "timestamp": 1714745004000,
+        "price": "388120",
+        "priceDec": {
+            "$numberDecimal": "388120"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13917981,
+        "account": "lxsxl",
+        "ownedBy": "u",
+        "nftId": "347237",
+        "grouping": {
+            "class": "people",
+            "type": "S20 Father Earth"
+        },
+        "timestamp": 1715584632000,
+        "price": "390000",
+        "priceDec": {
+            "$numberDecimal": "390000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13164483,
+        "account": "ugochill",
+        "ownedBy": "u",
+        "nftId": "11685491",
+        "grouping": {
+            "class": "records",
+            "type": "Ugochill - The Whale Song"
+        },
+        "timestamp": 1710053853000,
+        "price": "400000",
+        "priceDec": {
+            "$numberDecimal": "400000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13858938,
+        "account": "itharagaian",
+        "ownedBy": "u",
+        "nftId": "302160",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Funkydelic"
+        },
+        "timestamp": 1714758006000,
+        "price": "400000",
+        "priceDec": {
+            "$numberDecimal": "400000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13522376,
+        "account": "magomerlin",
+        "ownedBy": "u",
+        "nftId": "13345368",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR G1313"
+        },
+        "timestamp": 1711999578000,
+        "price": "400000",
+        "priceDec": {
+            "$numberDecimal": "400000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13508523,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "3817938",
+        "grouping": {
+            "class": "people",
+            "type": "S44a Old Blud"
+        },
+        "timestamp": 1711798965000,
+        "price": "420000",
+        "priceDec": {
+            "$numberDecimal": "420000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13740450,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "13541850",
+        "grouping": {
+            "class": "instrument",
+            "type": "L74 DREam Machine"
+        },
+        "timestamp": 1713198168000,
+        "price": "432223",
+        "priceDec": {
+            "$numberDecimal": "432223"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13863391,
+        "account": "desro",
+        "ownedBy": "u",
+        "nftId": "11603231",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR G1133"
+        },
+        "timestamp": 1714824765000,
+        "price": "449000",
+        "priceDec": {
+            "$numberDecimal": "449000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13785677,
+        "account": "deveter",
+        "ownedBy": "u",
+        "nftId": "1244835",
+        "grouping": {
+            "class": "transport",
+            "type": "E62 Hummy Limo"
+        },
+        "timestamp": 1713567366000,
+        "price": "450000",
+        "priceDec": {
+            "$numberDecimal": "450000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919688,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "1994750",
+        "grouping": {
+            "class": "instrument",
+            "type": "E69 Antique Snare"
+        },
+        "timestamp": 1715594721000,
+        "price": "465498",
+        "priceDec": {
+            "$numberDecimal": "465498"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13105132,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "1070817",
+        "grouping": {
+            "class": "people",
+            "type": "E63 Kinsey"
+        },
+        "timestamp": 1709696799000,
+        "price": "465500",
+        "priceDec": {
+            "$numberDecimal": "465500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938591,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "209251",
+        "grouping": {
+            "class": "people",
+            "type": "R32 Rose Petal"
+        },
+        "timestamp": 1716204897000,
+        "price": "469200",
+        "priceDec": {
+            "$numberDecimal": "469200"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13253655,
+        "account": "animocin",
+        "ownedBy": "u",
+        "nftId": "1210901",
+        "grouping": {
+            "class": "instrument",
+            "type": "E59 Avocado Guitar"
+        },
+        "timestamp": 1710342843000,
+        "price": "469200",
+        "priceDec": {
+            "$numberDecimal": "469200"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117032,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "1976411",
+        "grouping": {
+            "class": "people",
+            "type": "E65 The Crow"
+        },
+        "timestamp": 1709807469000,
+        "price": "480057",
+        "priceDec": {
+            "$numberDecimal": "480057"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13117033,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "1116368",
+        "grouping": {
+            "class": "people",
+            "type": "E64 Valerie"
+        },
+        "timestamp": 1709807469000,
+        "price": "480200",
+        "priceDec": {
+            "$numberDecimal": "480200"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937996,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "1335814",
+        "grouping": {
+            "class": "location",
+            "type": "Cheap Rehearsal Room"
+        },
+        "timestamp": 1716204438000,
+        "price": "495000",
+        "priceDec": {
+            "$numberDecimal": "495000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13014796,
+        "account": "saechigo",
+        "ownedBy": "u",
+        "nftId": "344260",
+        "grouping": {
+            "class": "transport",
+            "type": "R52 Hippy Wagon"
+        },
+        "timestamp": 1709338386000,
+        "price": "495000",
+        "priceDec": {
+            "$numberDecimal": "495000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934895,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2345762",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC22 Drew"
+        },
+        "timestamp": 1716143838000,
+        "price": "495000",
+        "priceDec": {
+            "$numberDecimal": "495000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13637923,
+        "account": "michjazz",
+        "ownedBy": "u",
+        "nftId": "795093",
+        "grouping": {
+            "class": "instrument",
+            "type": "E49 The Purple One"
+        },
+        "timestamp": 1712453949000,
+        "price": "495555",
+        "priceDec": {
+            "$numberDecimal": "495555"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13821064,
+        "account": "ragaxie",
+        "ownedBy": "u",
+        "nftId": "2682485",
+        "grouping": {
+            "class": "instrument",
+            "type": "E95 Antique Trombone"
+        },
+        "timestamp": 1714016175000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11415549,
+        "account": "ugochill",
+        "ownedBy": "u",
+        "nftId": "2017617",
+        "grouping": {
+            "class": "records",
+            "type": "Ugochill - Reason to Stay"
+        },
+        "timestamp": 1702040511000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12769424,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "7117036",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Gettin Kooky"
+        },
+        "timestamp": 1708285482000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12769426,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "10313389",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Good Gawd (Bass Remix)"
+        },
+        "timestamp": 1708285482000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12769427,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "4915624",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Good Gawd 2"
+        },
+        "timestamp": 1708285482000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258076,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "11073035",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Luncy - Winter Funkyland"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258079,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "11073111",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - 2 Prince"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258083,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "11073060",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - A Funky Holy Night"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258085,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "11073086",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - A Funky Silent Night"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258088,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "10313468",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - A Voyage Of Funk"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258091,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "6202324",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Annihilation"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258094,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "6354958",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Awaken"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258097,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "10313423",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Chickengreaze 3"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258119,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "10313495",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - Ghostbusters"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13258136,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "10313553",
+        "grouping": {
+            "class": "records",
+            "type": "Trenton Lundy - This Funky Christmas"
+        },
+        "timestamp": 1710367974000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13933311,
+        "account": "weabootrash27",
+        "ownedBy": "u",
+        "nftId": "15119866",
+        "grouping": {
+            "class": "people",
+            "type": "FA3 Super Fan"
+        },
+        "timestamp": 1716107322000,
+        "price": "500000",
+        "priceDec": {
+            "$numberDecimal": "500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938401,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "139081",
+        "grouping": {
+            "class": "people",
+            "type": "R18 Toadie"
+        },
+        "timestamp": 1716204747000,
+        "price": "504000",
+        "priceDec": {
+            "$numberDecimal": "504000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12740137,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "76551",
+        "grouping": {
+            "class": "instrument",
+            "type": "R14 Cowbell"
+        },
+        "timestamp": 1708186623000,
+        "price": "540000",
+        "priceDec": {
+            "$numberDecimal": "540000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938622,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "296483",
+        "grouping": {
+            "class": "people",
+            "type": "R41 Storm"
+        },
+        "timestamp": 1716204981000,
+        "price": "546000",
+        "priceDec": {
+            "$numberDecimal": "546000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13834799,
+        "account": "kaiizo",
+        "ownedBy": "u",
+        "nftId": "1150916",
+        "grouping": {
+            "class": "instrument",
+            "type": "E61 Keystar 1A"
+        },
+        "timestamp": 1714407858000,
+        "price": "600000",
+        "priceDec": {
+            "$numberDecimal": "600000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934896,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2132625",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC10 Sky"
+        },
+        "timestamp": 1716143838000,
+        "price": "634838",
+        "priceDec": {
+            "$numberDecimal": "634838"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934898,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2149709",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC11 Belle"
+        },
+        "timestamp": 1716143838000,
+        "price": "658350",
+        "priceDec": {
+            "$numberDecimal": "658350"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934897,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2163950",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC12 Jonny"
+        },
+        "timestamp": 1716143838000,
+        "price": "658350",
+        "priceDec": {
+            "$numberDecimal": "658350"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945398,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14745209",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 2313"
+        },
+        "timestamp": 1716438465000,
+        "price": "676409",
+        "priceDec": {
+            "$numberDecimal": "676409"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934899,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2029254",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC6 Rosie"
+        },
+        "timestamp": 1716143838000,
+        "price": "686070",
+        "priceDec": {
+            "$numberDecimal": "686070"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934900,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2086792",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC8 Kris"
+        },
+        "timestamp": 1716143838000,
+        "price": "686070",
+        "priceDec": {
+            "$numberDecimal": "686070"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934901,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2121374",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC9 Frankie"
+        },
+        "timestamp": 1716143838000,
+        "price": "686070",
+        "priceDec": {
+            "$numberDecimal": "686070"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11039003,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "7793040",
+        "grouping": {
+            "class": "records",
+            "type": "El Ganjoman - Digital Farming"
+        },
+        "timestamp": 1700681727000,
+        "price": "690000",
+        "priceDec": {
+            "$numberDecimal": "690000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13686725,
+        "account": "sidetrekker",
+        "ownedBy": "u",
+        "nftId": "3884807",
+        "grouping": {
+            "class": "people",
+            "type": "S47 The Bros"
+        },
+        "timestamp": 1712772648000,
+        "price": "690000",
+        "priceDec": {
+            "$numberDecimal": "690000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934902,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2185719",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC14 Pin Badge"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934903,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2202744",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC15 Shine"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934904,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2295045",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC17 Arthur"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934905,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2353958",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC18 Markie"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934906,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2404713",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC19 Katie"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934907,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2434036",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC20 Guitar Picks"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934908,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2329075",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC21 Winston"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934909,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2362249",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC23 Stanley"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934910,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2422176",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC25 Drum Sticks"
+        },
+        "timestamp": 1716143838000,
+        "price": "693000",
+        "priceDec": {
+            "$numberDecimal": "693000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13079293,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "3049476",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC31 Vimbo"
+        },
+        "timestamp": 1709505606000,
+        "price": "700000",
+        "priceDec": {
+            "$numberDecimal": "700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13079295,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "3180950",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC33 Alicia"
+        },
+        "timestamp": 1709505606000,
+        "price": "700000",
+        "priceDec": {
+            "$numberDecimal": "700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13079299,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "3705093",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC37 Matt"
+        },
+        "timestamp": 1709505606000,
+        "price": "700000",
+        "priceDec": {
+            "$numberDecimal": "700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13079300,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "4116318",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC38 Natalie"
+        },
+        "timestamp": 1709505606000,
+        "price": "700000",
+        "priceDec": {
+            "$numberDecimal": "700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13079303,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "4374179",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC41 Rozzer"
+        },
+        "timestamp": 1709505606000,
+        "price": "700000",
+        "priceDec": {
+            "$numberDecimal": "700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13079305,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "5227080",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC43 Tracy"
+        },
+        "timestamp": 1709505606000,
+        "price": "700000",
+        "priceDec": {
+            "$numberDecimal": "700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13557886,
+        "account": "ugochill",
+        "ownedBy": "u",
+        "nftId": "13833526",
+        "grouping": {
+            "class": "records",
+            "type": "Ugochill feat The Turtle Project - No More"
+        },
+        "timestamp": 1712170212000,
+        "price": "700000",
+        "priceDec": {
+            "$numberDecimal": "700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13265853,
+        "account": "naosdn",
+        "ownedBy": "u",
+        "nftId": "993447",
+        "grouping": {
+            "class": "people",
+            "type": "E57 Dorrego"
+        },
+        "timestamp": 1710439458000,
+        "price": "720000",
+        "priceDec": {
+            "$numberDecimal": "720000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13106893,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "875499",
+        "grouping": {
+            "class": "people",
+            "type": "E45 Jackson"
+        },
+        "timestamp": 1709697549000,
+        "price": "727500",
+        "priceDec": {
+            "$numberDecimal": "727500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13106647,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "1060463",
+        "grouping": {
+            "class": "people",
+            "type": "S31 Juliet"
+        },
+        "timestamp": 1709697474000,
+        "price": "750974",
+        "priceDec": {
+            "$numberDecimal": "750974"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919690,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "1629845",
+        "grouping": {
+            "class": "instrument",
+            "type": "E68 Vintage Mic RS2"
+        },
+        "timestamp": 1715594721000,
+        "price": "752610",
+        "priceDec": {
+            "$numberDecimal": "752610"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13182059,
+        "account": "yuukari",
+        "ownedBy": "u",
+        "nftId": "871638",
+        "grouping": {
+            "class": "transport",
+            "type": "E50 Couger Groovy"
+        },
+        "timestamp": 1710125748000,
+        "price": "799999",
+        "priceDec": {
+            "$numberDecimal": "799999"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 8141008,
+        "account": "vampy05",
+        "ownedBy": "u",
+        "nftId": "3417068",
+        "grouping": {
+            "class": "instrument",
+            "type": "S46a Drum Stakes"
+        },
+        "timestamp": 1690942698000,
+        "price": "800000",
+        "priceDec": {
+            "$numberDecimal": "800000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10208142,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "1305583",
+        "grouping": {
+            "class": "instrument",
+            "type": "E67 Street Organ"
+        },
+        "timestamp": 1697549832000,
+        "price": "800000",
+        "priceDec": {
+            "$numberDecimal": "800000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12251375,
+        "account": "dnrxgwp2021",
+        "ownedBy": "u",
+        "nftId": "3262808",
+        "grouping": {
+            "class": "instrument",
+            "type": "L38 The Wurly"
+        },
+        "timestamp": 1705549950000,
+        "price": "800000",
+        "priceDec": {
+            "$numberDecimal": "800000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862884,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "1792126",
+        "grouping": {
+            "class": "instrument",
+            "type": "E84 Vintage Mic RS4"
+        },
+        "timestamp": 1714813968000,
+        "price": "819000",
+        "priceDec": {
+            "$numberDecimal": "819000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 5863334,
+        "account": "josectzte",
+        "ownedBy": "u",
+        "nftId": "637913",
+        "grouping": {
+            "class": "transport",
+            "type": "E27 Hummy"
+        },
+        "timestamp": 1677518322000,
+        "price": "840000",
+        "priceDec": {
+            "$numberDecimal": "840000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12504494,
+        "account": "brsk84",
+        "ownedBy": "u",
+        "nftId": "451723",
+        "grouping": {
+            "class": "people",
+            "type": "E29 Stanley"
+        },
+        "timestamp": 1707146082000,
+        "price": "850000",
+        "priceDec": {
+            "$numberDecimal": "850000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13825193,
+        "account": "pipok",
+        "ownedBy": "u",
+        "nftId": "133501",
+        "grouping": {
+            "class": "people",
+            "type": "S6 Wizzy"
+        },
+        "timestamp": 1714207941000,
+        "price": "862400",
+        "priceDec": {
+            "$numberDecimal": "862400"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12595564,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "11743596",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P2321"
+        },
+        "timestamp": 1707519981000,
+        "price": "870000",
+        "priceDec": {
+            "$numberDecimal": "870000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934911,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2154260",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC7 Stickers"
+        },
+        "timestamp": 1716143838000,
+        "price": "882090",
+        "priceDec": {
+            "$numberDecimal": "882090"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365677,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "9623566",
+        "grouping": {
+            "class": "records",
+            "type": "Andrewmusic ft gr33nm4ster - A23 EverGreen"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365681,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8885603",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Take Profit"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365690,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8544018",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Rising Star Breakout"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365692,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "9298549",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Outro"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365699,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8885630",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Nameless"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365703,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "9298623",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - MusicUniversity Tribute"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365706,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8951297",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Intro"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365711,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8051309",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Hive Web 3"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365714,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "9298386",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Foxurvivor"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365725,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "11650071",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Acoustic Desire"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365730,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "11650156",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Antropology"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365736,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8543949",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - BCH Cashrain is King"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365742,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8267894",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - BTC Universal Dance"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12365747,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8544063",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Dear Sister"
+        },
+        "timestamp": 1706570370000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13835005,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "14981866",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - All in"
+        },
+        "timestamp": 1714409625000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13835029,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "14981841",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - Not an intro song"
+        },
+        "timestamp": 1714409625000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13835078,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "14981891",
+        "grouping": {
+            "class": "records",
+            "type": "Andrew Music - You and me"
+        },
+        "timestamp": 1714409625000,
+        "price": "888888",
+        "priceDec": {
+            "$numberDecimal": "888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13936137,
+        "account": "milorgamers",
+        "ownedBy": "u",
+        "nftId": "496468",
+        "grouping": {
+            "class": "instrument",
+            "type": "E36 Cherry Acoustic"
+        },
+        "timestamp": 1716148947000,
+        "price": "890000",
+        "priceDec": {
+            "$numberDecimal": "890000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 6416358,
+        "account": "josectzte",
+        "ownedBy": "u",
+        "nftId": "337920",
+        "grouping": {
+            "class": "people",
+            "type": "E22 Kayleigh"
+        },
+        "timestamp": 1680900276000,
+        "price": "891000",
+        "priceDec": {
+            "$numberDecimal": "891000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11841110,
+        "account": "amaillo",
+        "ownedBy": "u",
+        "nftId": "649897",
+        "grouping": {
+            "class": "instrument",
+            "type": "S25 Drop Dead Drums"
+        },
+        "timestamp": 1703873031000,
+        "price": "912000",
+        "priceDec": {
+            "$numberDecimal": "912000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13490962,
+        "account": "nwlrunner",
+        "ownedBy": "u",
+        "nftId": "14327459",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1333"
+        },
+        "timestamp": 1711627698000,
+        "price": "920000",
+        "priceDec": {
+            "$numberDecimal": "920000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11841144,
+        "account": "amaillo",
+        "ownedBy": "u",
+        "nftId": "682585",
+        "grouping": {
+            "class": "instrument",
+            "type": "S26 No Face Bass"
+        },
+        "timestamp": 1703873070000,
+        "price": "921500",
+        "priceDec": {
+            "$numberDecimal": "921500"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13181910,
+        "account": "yuukari",
+        "ownedBy": "u",
+        "nftId": "1286671",
+        "grouping": {
+            "class": "transport",
+            "type": "E54 Pink Low Rider"
+        },
+        "timestamp": 1710125688000,
+        "price": "941000",
+        "priceDec": {
+            "$numberDecimal": "941000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13105136,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "957259",
+        "grouping": {
+            "class": "people",
+            "type": "E58 Hamish"
+        },
+        "timestamp": 1709696799000,
+        "price": "980000",
+        "priceDec": {
+            "$numberDecimal": "980000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919684,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "189127",
+        "grouping": {
+            "class": "instrument",
+            "type": "E12 Harp"
+        },
+        "timestamp": 1715594607000,
+        "price": "980000",
+        "priceDec": {
+            "$numberDecimal": "980000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919691,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "214644",
+        "grouping": {
+            "class": "instrument",
+            "type": "E14 High End Drum Kit"
+        },
+        "timestamp": 1715594721000,
+        "price": "980000",
+        "priceDec": {
+            "$numberDecimal": "980000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919693,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "351923",
+        "grouping": {
+            "class": "instrument",
+            "type": "E26 RS7B Dynamic Mic"
+        },
+        "timestamp": 1715594721000,
+        "price": "980000",
+        "priceDec": {
+            "$numberDecimal": "980000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919694,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "547443",
+        "grouping": {
+            "class": "instrument",
+            "type": "E28 Xylophone"
+        },
+        "timestamp": 1715594721000,
+        "price": "980000",
+        "priceDec": {
+            "$numberDecimal": "980000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 8623041,
+        "account": "josectzte",
+        "ownedBy": "u",
+        "nftId": "114443",
+        "grouping": {
+            "class": "people",
+            "type": "E5 Headbanging Singer"
+        },
+        "timestamp": 1692485712000,
+        "price": "981212",
+        "priceDec": {
+            "$numberDecimal": "981212"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12770482,
+        "account": "syllem",
+        "ownedBy": "u",
+        "nftId": "13415662",
+        "grouping": {
+            "class": "instrument",
+            "type": "L69 Moody Mellotron"
+        },
+        "timestamp": 1708309683000,
+        "price": "999000",
+        "priceDec": {
+            "$numberDecimal": "999000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13557992,
+        "account": "gonza123",
+        "ownedBy": "u",
+        "nftId": "5623339",
+        "grouping": {
+            "class": "instrument",
+            "type": "L44 Jimis Mic"
+        },
+        "timestamp": 1712171040000,
+        "price": "999999",
+        "priceDec": {
+            "$numberDecimal": "999999"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11100944,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "693580",
+        "grouping": {
+            "class": "people",
+            "type": "E41 MC Spud"
+        },
+        "timestamp": 1700956602000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13799490,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "109556",
+        "grouping": {
+            "class": "transport",
+            "type": "E3 Red Lambo"
+        },
+        "timestamp": 1713780660000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13793639,
+        "account": "blackdoger",
+        "ownedBy": "u",
+        "nftId": "6683892",
+        "grouping": {
+            "class": "instrument",
+            "type": "L46 The Rossi"
+        },
+        "timestamp": 1713664860000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13799491,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "134391",
+        "grouping": {
+            "class": "instrument",
+            "type": "E7 Grand Piano"
+        },
+        "timestamp": 1713780915000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13799493,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "130626",
+        "grouping": {
+            "class": "instrument",
+            "type": "E13 Unidyne"
+        },
+        "timestamp": 1713780969000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13799497,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "480155",
+        "grouping": {
+            "class": "instrument",
+            "type": "E35 RSV Synth"
+        },
+        "timestamp": 1713781110000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13799498,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "583079",
+        "grouping": {
+            "class": "instrument",
+            "type": "E39 RS L Condenser"
+        },
+        "timestamp": 1713781146000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13799499,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "661390",
+        "grouping": {
+            "class": "instrument",
+            "type": "E42 Electric Violin"
+        },
+        "timestamp": 1713781182000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13942293,
+        "account": "josman831",
+        "ownedBy": "u",
+        "nftId": "10912504",
+        "grouping": {
+            "class": "transport",
+            "type": "L58 Classic Roadster"
+        },
+        "timestamp": 1716393378000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13942294,
+        "account": "josman831",
+        "ownedBy": "u",
+        "nftId": "15260583",
+        "grouping": {
+            "class": "transport",
+            "type": "L75 Vacation Wagon"
+        },
+        "timestamp": 1716393411000,
+        "price": "1000000",
+        "priceDec": {
+            "$numberDecimal": "1000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13104850,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "875469",
+        "grouping": {
+            "class": "instrument",
+            "type": "E52 Aqua Marine Cello"
+        },
+        "timestamp": 1709696655000,
+        "price": "1017632",
+        "priceDec": {
+            "$numberDecimal": "1017632"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13521569,
+        "account": "trentonlundy1",
+        "ownedBy": "u",
+        "nftId": "2583110",
+        "grouping": {
+            "class": "instrument",
+            "type": "L34 7 String Guitar"
+        },
+        "timestamp": 1711988598000,
+        "price": "1068200",
+        "priceDec": {
+            "$numberDecimal": "1068200"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13333478,
+        "account": "magomerlin",
+        "ownedBy": "u",
+        "nftId": "8073317",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D1321"
+        },
+        "timestamp": 1710604875000,
+        "price": "1100000",
+        "priceDec": {
+            "$numberDecimal": "1100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12559852,
+        "account": "soyuntito",
+        "ownedBy": "u",
+        "nftId": "1895131",
+        "grouping": {
+            "class": "instrument",
+            "type": "L29 Stradivarius"
+        },
+        "timestamp": 1707361527000,
+        "price": "1100000",
+        "priceDec": {
+            "$numberDecimal": "1100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12870953,
+        "account": "edicolms",
+        "ownedBy": "u",
+        "nftId": "2884936",
+        "grouping": {
+            "class": "transport",
+            "type": "E83 The Junk Slayer"
+        },
+        "timestamp": 1708728549000,
+        "price": "1100111",
+        "priceDec": {
+            "$numberDecimal": "1100111"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13184135,
+        "account": "peligroso",
+        "ownedBy": "u",
+        "nftId": "1302348",
+        "grouping": {
+            "class": "transport",
+            "type": "E55 Monstar Truck"
+        },
+        "timestamp": 1710130932000,
+        "price": "1152000",
+        "priceDec": {
+            "$numberDecimal": "1152000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862965,
+        "account": "limxinhai",
+        "ownedBy": "u",
+        "nftId": "14822084",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1313"
+        },
+        "timestamp": 1714818726000,
+        "price": "1163777",
+        "priceDec": {
+            "$numberDecimal": "1163777"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13939690,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "11865123",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P1313"
+        },
+        "timestamp": 1716241956000,
+        "price": "1190000",
+        "priceDec": {
+            "$numberDecimal": "1190000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12932679,
+        "account": "magomerlin",
+        "ownedBy": "u",
+        "nftId": "13569697",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D1313"
+        },
+        "timestamp": 1709003199000,
+        "price": "1200000",
+        "priceDec": {
+            "$numberDecimal": "1200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13200253,
+        "account": "flaviomateco",
+        "ownedBy": "u",
+        "nftId": "5970198",
+        "grouping": {
+            "class": "people",
+            "type": "S61 Nicko"
+        },
+        "timestamp": 1710164598000,
+        "price": "1200000",
+        "priceDec": {
+            "$numberDecimal": "1200000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12597013,
+        "account": "marfonso",
+        "ownedBy": "u",
+        "nftId": "13076860",
+        "grouping": {
+            "class": "crafted",
+            "type": "Love Bug 1121"
+        },
+        "timestamp": 1707521796000,
+        "price": "1400000",
+        "priceDec": {
+            "$numberDecimal": "1400000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934912,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2173676",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC13 Rush"
+        },
+        "timestamp": 1716143838000,
+        "price": "1425600",
+        "priceDec": {
+            "$numberDecimal": "1425600"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934913,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2261400",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC16 MC Bruv"
+        },
+        "timestamp": 1716143838000,
+        "price": "1425600",
+        "priceDec": {
+            "$numberDecimal": "1425600"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13182060,
+        "account": "yuukari",
+        "ownedBy": "u",
+        "nftId": "814494",
+        "grouping": {
+            "class": "transport",
+            "type": "E31 Faux Rari"
+        },
+        "timestamp": 1710125796000,
+        "price": "1450000",
+        "priceDec": {
+            "$numberDecimal": "1450000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919685,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "36705",
+        "grouping": {
+            "class": "instrument",
+            "type": "E1"
+        },
+        "timestamp": 1715594607000,
+        "price": "1470000",
+        "priceDec": {
+            "$numberDecimal": "1470000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12400256,
+        "account": "atifaman",
+        "ownedBy": "u",
+        "nftId": "494085",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D1323"
+        },
+        "timestamp": 1706729940000,
+        "price": "1494349",
+        "priceDec": {
+            "$numberDecimal": "1494349"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13482479,
+        "account": "xnovax",
+        "ownedBy": "u",
+        "nftId": "14337389",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR G1111"
+        },
+        "timestamp": 1711531554000,
+        "price": "1500000",
+        "priceDec": {
+            "$numberDecimal": "1500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10865507,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "9633467",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D1111"
+        },
+        "timestamp": 1699911939000,
+        "price": "1588888",
+        "priceDec": {
+            "$numberDecimal": "1588888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10865508,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "9425295",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR D1311"
+        },
+        "timestamp": 1699911939000,
+        "price": "1588888",
+        "priceDec": {
+            "$numberDecimal": "1588888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 10865516,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "8999021",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR G2113"
+        },
+        "timestamp": 1699911939000,
+        "price": "1588888",
+        "priceDec": {
+            "$numberDecimal": "1588888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13860916,
+        "account": "magomerlin",
+        "ownedBy": "u",
+        "nftId": "12701843",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P1321"
+        },
+        "timestamp": 1714784958000,
+        "price": "1600000",
+        "priceDec": {
+            "$numberDecimal": "1600000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862885,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "12484408",
+        "grouping": {
+            "class": "instrument",
+            "type": "L68 Daves Strat"
+        },
+        "timestamp": 1714814115000,
+        "price": "1656069",
+        "priceDec": {
+            "$numberDecimal": "1656069"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13917189,
+        "account": "redexy",
+        "ownedBy": "u",
+        "nftId": "14982583",
+        "grouping": {
+            "class": "instrument",
+            "type": "PRO066 Blue Trombone"
+        },
+        "timestamp": 1715553408000,
+        "price": "1700000",
+        "priceDec": {
+            "$numberDecimal": "1700000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13937738,
+        "account": "ricestrela",
+        "ownedBy": "u",
+        "nftId": "14300285",
+        "grouping": {
+            "class": "people",
+            "type": "S71a Mila"
+        },
+        "timestamp": 1716196197000,
+        "price": "1750000",
+        "priceDec": {
+            "$numberDecimal": "1750000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 8905768,
+        "account": "burnsurface",
+        "ownedBy": "u",
+        "nftId": "5772412",
+        "grouping": {
+            "class": "people",
+            "type": "S54 MT"
+        },
+        "timestamp": 1693404603000,
+        "price": "1800000",
+        "priceDec": {
+            "$numberDecimal": "1800000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13452393,
+        "account": "s3rg4",
+        "ownedBy": "u",
+        "nftId": "14179736",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 3321"
+        },
+        "timestamp": 1711215426000,
+        "price": "1800000",
+        "priceDec": {
+            "$numberDecimal": "1800000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12056180,
+        "account": "eminis",
+        "ownedBy": "u",
+        "nftId": "12296555",
+        "grouping": {
+            "class": "people",
+            "type": "S68a The Big Guy"
+        },
+        "timestamp": 1704821001000,
+        "price": "1850000",
+        "priceDec": {
+            "$numberDecimal": "1850000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13446122,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "14280592",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1133"
+        },
+        "timestamp": 1711173780000,
+        "price": "1999000",
+        "priceDec": {
+            "$numberDecimal": "1999000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12946209,
+        "account": "maori4life",
+        "ownedBy": "u",
+        "nftId": "11439598",
+        "grouping": {
+            "class": "transport",
+            "type": "L70 ZEP Corvette"
+        },
+        "timestamp": 1709094435000,
+        "price": "2000000",
+        "priceDec": {
+            "$numberDecimal": "2000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13531254,
+        "account": "ressonlelong",
+        "ownedBy": "u",
+        "nftId": "14506914",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1113"
+        },
+        "timestamp": 1712074740000,
+        "price": "2000000",
+        "priceDec": {
+            "$numberDecimal": "2000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13557998,
+        "account": "gonza123",
+        "ownedBy": "u",
+        "nftId": "5608751",
+        "grouping": {
+            "class": "instrument",
+            "type": "L49 Professor Kit"
+        },
+        "timestamp": 1712171196000,
+        "price": "2000000",
+        "priceDec": {
+            "$numberDecimal": "2000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13558060,
+        "account": "gonza123",
+        "ownedBy": "u",
+        "nftId": "5445406",
+        "grouping": {
+            "class": "transport",
+            "type": "L28 High Roller"
+        },
+        "timestamp": 1712171457000,
+        "price": "2000000",
+        "priceDec": {
+            "$numberDecimal": "2000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13799421,
+        "account": "momongja",
+        "ownedBy": "u",
+        "nftId": "14653246",
+        "grouping": {
+            "class": "instrument",
+            "type": "L85 Papyrus Twin Neck"
+        },
+        "timestamp": 1713771495000,
+        "price": "2000000",
+        "priceDec": {
+            "$numberDecimal": "2000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934914,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2403913",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC24 Heather"
+        },
+        "timestamp": 1716143838000,
+        "price": "2000000",
+        "priceDec": {
+            "$numberDecimal": "2000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13810962,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "14942269",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P1113"
+        },
+        "timestamp": 1713913545000,
+        "price": "2100000",
+        "priceDec": {
+            "$numberDecimal": "2100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13939703,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "12564031",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P1111"
+        },
+        "timestamp": 1716242520000,
+        "price": "2100000",
+        "priceDec": {
+            "$numberDecimal": "2100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13210647,
+        "account": "tatou66",
+        "ownedBy": "u",
+        "nftId": "13038217",
+        "grouping": {
+            "class": "transport",
+            "type": "L76 Timing Machine"
+        },
+        "timestamp": 1710173982000,
+        "price": "2300000",
+        "priceDec": {
+            "$numberDecimal": "2300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13730641,
+        "account": "sabasmadariaga",
+        "ownedBy": "u",
+        "nftId": "13434412",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P1311"
+        },
+        "timestamp": 1713113925000,
+        "price": "2300000",
+        "priceDec": {
+            "$numberDecimal": "2300000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13680365,
+        "account": "luiggies",
+        "ownedBy": "u",
+        "nftId": "800696",
+        "grouping": {
+            "class": "people",
+            "type": "S27 Christmas Choir"
+        },
+        "timestamp": 1712673495000,
+        "price": "2400000",
+        "priceDec": {
+            "$numberDecimal": "2400000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13934915,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "2438036",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC26 Antonio"
+        },
+        "timestamp": 1716143838000,
+        "price": "2500000",
+        "priceDec": {
+            "$numberDecimal": "2500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13942291,
+        "account": "josman831",
+        "ownedBy": "u",
+        "nftId": "15222977",
+        "grouping": {
+            "class": "people",
+            "type": "L84 Timmy Papyrus"
+        },
+        "timestamp": 1716393000000,
+        "price": "2500000",
+        "priceDec": {
+            "$numberDecimal": "2500000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945405,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14155463",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 2331"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945407,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14838543",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 3331"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945403,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14687675",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 2123"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945401,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14262652",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1123"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945400,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14313922",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1111"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945402,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14321501",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 2111"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945404,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14330159",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 2311"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945406,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "14687694",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 3123"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13945408,
+        "account": "alinahart",
+        "ownedBy": "u",
+        "nftId": "13714569",
+        "grouping": {
+            "class": "crafted",
+            "type": "Love Bug 3331"
+        },
+        "timestamp": 1716438465000,
+        "price": "2564464",
+        "priceDec": {
+            "$numberDecimal": "2564464"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13942292,
+        "account": "josman831",
+        "ownedBy": "u",
+        "nftId": "10908060",
+        "grouping": {
+            "class": "people",
+            "type": "L66 Dirty Puddle"
+        },
+        "timestamp": 1716393108000,
+        "price": "2600000",
+        "priceDec": {
+            "$numberDecimal": "2600000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13862578,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "12343019",
+        "grouping": {
+            "class": "crafted",
+            "type": "Santas Sleigh 1333"
+        },
+        "timestamp": 1714809756000,
+        "price": "2669000",
+        "priceDec": {
+            "$numberDecimal": "2669000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13382362,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "14202293",
+        "grouping": {
+            "class": "crafted",
+            "type": "Eggsterminator 1331"
+        },
+        "timestamp": 1710877854000,
+        "price": "2690000",
+        "priceDec": {
+            "$numberDecimal": "2690000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13757121,
+        "account": "yuukari",
+        "ownedBy": "u",
+        "nftId": "9228006",
+        "grouping": {
+            "class": "people",
+            "type": "L62 El Ganjoman"
+        },
+        "timestamp": 1713385701000,
+        "price": "2900000",
+        "priceDec": {
+            "$numberDecimal": "2900000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13938629,
+        "account": "epoq",
+        "ownedBy": "u",
+        "nftId": "6497035",
+        "grouping": {
+            "class": "people",
+            "type": "S34a Pascala"
+        },
+        "timestamp": 1716204999000,
+        "price": "2915850",
+        "priceDec": {
+            "$numberDecimal": "2915850"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13230880,
+        "account": "ressonlelong",
+        "ownedBy": "u",
+        "nftId": "12640981",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR GP2133"
+        },
+        "timestamp": 1710244743000,
+        "price": "2970000",
+        "priceDec": {
+            "$numberDecimal": "2970000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13892130,
+        "account": "dardanelfon",
+        "ownedBy": "u",
+        "nftId": "55897",
+        "grouping": {
+            "class": "xpboost",
+            "type": "XPBoost10"
+        },
+        "timestamp": 1715134965000,
+        "price": "2998000",
+        "priceDec": {
+            "$numberDecimal": "2998000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13558010,
+        "account": "gonza123",
+        "ownedBy": "u",
+        "nftId": "5127038",
+        "grouping": {
+            "class": "people",
+            "type": "L40 TDC Tunes"
+        },
+        "timestamp": 1712171382000,
+        "price": "3900000",
+        "priceDec": {
+            "$numberDecimal": "3900000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 8343667,
+        "account": "burnsurface",
+        "ownedBy": "u",
+        "nftId": "2126340",
+        "grouping": {
+            "class": "runner",
+            "type": "RU1 Paula"
+        },
+        "timestamp": 1691683560000,
+        "price": "4000000",
+        "priceDec": {
+            "$numberDecimal": "4000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13370839,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "10197657",
+        "grouping": {
+            "class": "people",
+            "type": "S51a Strummy Bunny"
+        },
+        "timestamp": 1710788817000,
+        "price": "4690000",
+        "priceDec": {
+            "$numberDecimal": "4690000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 6958332,
+        "account": "sirdemian",
+        "ownedBy": "u",
+        "nftId": "674432",
+        "grouping": {
+            "class": "people",
+            "type": "S24a Scary Mary"
+        },
+        "timestamp": 1684672332000,
+        "price": "4750000",
+        "priceDec": {
+            "$numberDecimal": "4750000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11008196,
+        "account": "burnsurface",
+        "ownedBy": "u",
+        "nftId": "3047040",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P3313"
+        },
+        "timestamp": 1700577546000,
+        "price": "5000000",
+        "priceDec": {
+            "$numberDecimal": "5000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13635985,
+        "account": "andrewmusic",
+        "ownedBy": "u",
+        "nftId": "9623527",
+        "grouping": {
+            "class": "records",
+            "type": "Clove71 ft Andrewmusic - Tr3ple Threat"
+        },
+        "timestamp": 1712445837000,
+        "price": "7888888",
+        "priceDec": {
+            "$numberDecimal": "7888888"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12629664,
+        "account": "edusan",
+        "ownedBy": "u",
+        "nftId": "12302120",
+        "grouping": {
+            "class": "crafted",
+            "type": "Santas Sleigh 1111"
+        },
+        "timestamp": 1707621060000,
+        "price": "8000000",
+        "priceDec": {
+            "$numberDecimal": "8000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11440099,
+        "account": "rishi556",
+        "ownedBy": "u",
+        "nftId": "32424",
+        "grouping": {
+            "class": "instrument",
+            "type": "L5 Fab Four Bass"
+        },
+        "timestamp": 1702192059000,
+        "price": "9313725",
+        "priceDec": {
+            "$numberDecimal": "9313725"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13708762,
+        "account": "kamorix",
+        "ownedBy": "u",
+        "nftId": "5947232",
+        "grouping": {
+            "class": "energyboost",
+            "type": "3rd Birthday Cake"
+        },
+        "timestamp": 1713016692000,
+        "price": "9900000",
+        "priceDec": {
+            "$numberDecimal": "9900000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 1699717,
+        "account": "luisitoslot",
+        "ownedBy": "u",
+        "nftId": "597449",
+        "grouping": {
+            "class": "people",
+            "type": "E33 Grace"
+        },
+        "timestamp": 1652660838000,
+        "price": "10000000",
+        "priceDec": {
+            "$numberDecimal": "10000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 11008195,
+        "account": "burnsurface",
+        "ownedBy": "u",
+        "nftId": "3047039",
+        "grouping": {
+            "class": "crafted",
+            "type": "RSTAR P2113"
+        },
+        "timestamp": 1700577516000,
+        "price": "10000000",
+        "priceDec": {
+            "$numberDecimal": "10000000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 12641472,
+        "account": "desertjoe",
+        "ownedBy": "u",
+        "nftId": "13099250",
+        "grouping": {
+            "class": "crafted",
+            "type": "Love Bug 1321"
+        },
+        "timestamp": 1707709050000,
+        "price": "16900000",
+        "priceDec": {
+            "$numberDecimal": "16900000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13079322,
+        "account": "eddqq",
+        "ownedBy": "u",
+        "nftId": "2983650",
+        "grouping": {
+            "class": "fanclub",
+            "type": "FC28 Courtney"
+        },
+        "timestamp": 1709505606000,
+        "price": "26100000",
+        "priceDec": {
+            "$numberDecimal": "26100000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    },
+    {
+        "_id": 13919677,
+        "account": "kobusu",
+        "ownedBy": "u",
+        "nftId": "37753",
+        "grouping": {
+            "class": "xpboost",
+            "type": "XPBoost100"
+        },
+        "timestamp": 1715594472000,
+        "price": "35260000",
+        "priceDec": {
+            "$numberDecimal": "35260000"
+        },
+        "priceSymbol": "STARBITS",
+        "fee": 500
+    }
+]
